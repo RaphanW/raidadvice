@@ -1,4 +1,4 @@
-baseURL = "www.raidadvice.com"
+baseURL = "http://www.raidadvice.com"
 languageCode = "en-us"
 title = "RaidAdvice.com"
 theme = "slick"

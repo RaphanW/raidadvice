@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on RaidAdvice.com</title>
-		<link>www.raidadvice.com/tags/</link>
+		<link>http://www.raidadvice.com/tags/</link>
 		<description>Recent content in Tags on RaidAdvice.com</description>
 		<generator>Hugo 0.72.0 -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Sun, 16 Aug 2020 21:15:57 +0000</lastBuildDate>
-		<atom:link href="www.raidadvice.com/tags/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://www.raidadvice.com/tags/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
