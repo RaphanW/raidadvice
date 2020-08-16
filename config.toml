@@ -1,4 +1,4 @@
-baseURL = "//raphanw.github.io/raidadvice"
+baseURL = "www.raidadvice.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "slick"

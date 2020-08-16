@@ -1,17 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>User Interface on My New Hugo Site</title>
-		<link>//raphanw.github.io/raidadvice/tags/user-interface/</link>
+		<link>www.raidadvice.com/tags/user-interface/</link>
 		<description>Recent content in User Interface on My New Hugo Site</description>
 		<generator>Hugo 0.72.0 -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Wed, 07 Sep 2016 09:00:00 +0000</lastBuildDate>
-		<atom:link href="//raphanw.github.io/raidadvice/tags/user-interface/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="www.raidadvice.com/tags/user-interface/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Three Useful Addons for Legion</title>
-			<link>//raphanw.github.io/raidadvice/posts/three-useful-addons-for-legion/</link>
+			<link>www.raidadvice.com/posts/three-useful-addons-for-legion/</link>
 			<pubDate>Wed, 07 Sep 2016 09:00:00 +0000</pubDate>
-			<guid isPermaLink="true">//raphanw.github.io/raidadvice/posts/three-useful-addons-for-legion/</guid>
+			<guid isPermaLink="true">www.raidadvice.com/posts/three-useful-addons-for-legion/</guid>
 			<description>&lt;p&gt;With a new expansion came new addon needs. I started using these three addons (and one phone app) in World of Warcraft: Legion, and they have made pre-raid gearing much smoother.&lt;/p&gt;
 &lt;h1 id=&#34;queue-for-bonus-reward-heroic-dungeons-bobsatchels&#34;&gt;Queue for Bonus Reward Heroic Dungeons: Bobsatchels&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://mods.curse.com/addons/wow/bobsatchels&#34;&gt;Bobsatchels&lt;/a&gt;: The prior addons I had used for finding heroic dungeon satchels did not work in Legion. The humbly named Bobsatchels gets the job done. It has a slick user interface, exactly the options you would want, and most importantly, it works. If you want to be alerted when bonus reward dungeons pop up, this is the addon for you. As an aside, bonus reward dungeons are available almost constantly for tanks and healers right now. For the moment, I turned the notification off because I could play all evening running heroics for bonus satchels, and I have world quests and mythic dungeons to do!&lt;/p&gt;
@@ -27,9 +27,9 @@
 		</item>
 		<item>
 			<title>More Legion Prepatch User Interface Fun</title>
-			<link>//raphanw.github.io/raidadvice/posts/more-legion-prepatch-user-interface-fun/</link>
+			<link>www.raidadvice.com/posts/more-legion-prepatch-user-interface-fun/</link>
 			<pubDate>Thu, 04 Aug 2016 23:43:57 +0000</pubDate>
-			<guid isPermaLink="true">//raphanw.github.io/raidadvice/posts/more-legion-prepatch-user-interface-fun/</guid>
+			<guid isPermaLink="true">www.raidadvice.com/posts/more-legion-prepatch-user-interface-fun/</guid>
 			<description>&lt;p&gt;I&amp;rsquo;ve continued to work on my User Interface since my post last week. In this post I&amp;rsquo;ll cover a few more addons and UI tips! Prior UI post: &lt;a href=&#34;http://raidadvice.com/updating-my-addons-and-user-interface-for-the-legion-prepatch/&#34;&gt;Updating My Addons and User Interface for the Legion Prepatch&lt;/a&gt;. [toc]&lt;/p&gt;
 &lt;h1 id=&#34;enemy-grid&#34;&gt;Enemy Grid&lt;/h1&gt;
 &lt;p&gt;In &lt;a href=&#34;http://raidadvice.com/updating-my-addons-and-user-interface-for-the-legion-prepatch/&#34;&gt;my last post&lt;/a&gt;, I listed dozens of addons I find useful and mentioned two addons I had heard of but not yet tried. &lt;a href=&#34;https://mods.curse.com/addons/wow/enemy-grid&#34;&gt;Enemy Grid&lt;/a&gt; is one of them and it is a game changer! It essentially allows you to have raid frames for your enemies. According to &lt;a href=&#34;http://us.battle.net/forums/en/wow/topic/17084929928&#34;&gt;several&lt;/a&gt; &lt;a href=&#34;http://us.battle.net/forums/en/wow/topic/11224122596&#34;&gt;forum&lt;/a&gt; &lt;a href=&#34;http://us.battle.net/forums/en/wow/topic/8197740800&#34;&gt;threads&lt;/a&gt;, this had not been possible in the past, since non-boss units did not get a UnitID until they were targeted by you or a party member, and thus could not be displayed in a raid frame. Something may have changed in the Legion Prepatch, since Enemy Grid displays every enemy within a range you specify that appears on your screen. At least one other player &lt;a href=&#34;http://us.battle.net/forums/en/wow/topic/20747665788&#34;&gt;noticed how powerful this was and even wondered if it was allowed&lt;/a&gt; - no Blizzard response. Just like Healbot or Vuhdo, it has click-to-cast functionality built in, and just like raid frames, mouseover macros work if you hover over your desired target. This addon is especially useful for classes that like to cast damage over time effects on many targets - it&amp;rsquo;s easy to keep track of 10 enemies if they are all in a tidy grid! Especially if you play a class that has to keep debuffs up on enemies, you owe it to yourself to try this addon.&lt;/p&gt;
@@ -49,9 +49,9 @@
 		</item>
 		<item>
 			<title>Updating My Addons and User Interface for the Legion Prepatch</title>
-			<link>//raphanw.github.io/raidadvice/posts/updating-my-addons-and-user-interface-for-the-legion-prepatch/</link>
+			<link>www.raidadvice.com/posts/updating-my-addons-and-user-interface-for-the-legion-prepatch/</link>
 			<pubDate>Mon, 25 Jul 2016 02:52:30 +0000</pubDate>
-			<guid isPermaLink="true">//raphanw.github.io/raidadvice/posts/updating-my-addons-and-user-interface-for-the-legion-prepatch/</guid>
+			<guid isPermaLink="true">www.raidadvice.com/posts/updating-my-addons-and-user-interface-for-the-legion-prepatch/</guid>
 			<description>&lt;p&gt;I haven&amp;rsquo;t been playing much Warcraft since my previous guild &amp;lt;&lt;a href=&#34;http://www.wowprogress.com/guild/us/sargeras/Cake+Plantation&#34;&gt;Cake Plantation&lt;/a&gt;&amp;gt; went on indefinite (and likely permanent) hiatus in April 2016. I poked around a bit on the PTR, and watched a good deal of Beta and PTR streams. But I had little desire to continue farming Hellfire Citadel, having fully geared three separate characters and killed Mythic Archimonde on each. With the Legion prepatch here, I find myself wanting to be ready for raiding. Part of that preparation was revising my user interface, including addons. Subsequent UI Post: &lt;a href=&#34;http://raidadvice.com/more-legion-prepatch-user-interface-fun/&#34;&gt;More Legion Prepatch User Interface Fun&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;goals-of-a-raiding-ui&#34;&gt;Goals of a Raiding UI&lt;/h1&gt;
 &lt;p&gt;Progression raiding motivates my activities in WoW. To optimize my play in raids, I look to set up a Raiding UI that alerts me to everything I need to know and removes, as much as possible, information I do not need to know. I try to focus important information, such as my health and resources, my target, and the status of my long-cooldown abilities around the center of the screen. I use addons to move my Unit Frames (my character, the boss, my focus, etc.) near the center of the screen, and use &lt;a href=&#34;http://mods.curse.com/addons/wow/weakauras-2&#34;&gt;Weakauras&lt;/a&gt; to display important information about my spec there as well. I place information I need to refer to less frequently or in-between pulls, such as written raid strategy, DPS meters, a full list of raid cooldowns, or all my buffs and debuffs, on the edges of the screen. For Legion I want my raid frames near the center of the screen, offset either to the right or to the left. For healing this will help me keep my focus on my surroundings even when intently watching the frames. Even when doing damage, for any class that needs to decurse, battle resurrect, or otherwise cast abilities on fellow raiders, raid frames near the center can be a good idea. In Tier 18, when I played a healer, I tried out a frames-at-the-bottom UI. I liked the idea of it at the time, as it cleared up space in the middle of the screen, allowing me to see more when I was looking there. However, I was looking there &lt;em&gt;less often&lt;/em&gt;. Ultimately that sort of UI made it a bit &lt;em&gt;harder&lt;/em&gt; for me to focus on my surroundings, as most of the time I was looking at the bottom of the screen rather than at what was happening in the middle of the screen! Hamlet goes into detail about boss mods and UI in general in his great post &lt;a href=&#34;http://iam.yellingontheinternet.com/2014/01/29/raid-awareness-is-a-learned-and-practiced-skill/&#34;&gt;Raid Awareness is a Learned and Practiced Skill&lt;/a&gt;. I edit my boss mods and make sure that the relevant notifactions appear near the center of my screen.&lt;/p&gt;
