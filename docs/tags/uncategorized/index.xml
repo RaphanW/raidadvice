@@ -1,17 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Uncategorized on My New Hugo Site</title>
-		<link>http://example.org/tags/uncategorized/</link>
+		<link>https://raphanw.github.io/raidadvice/tags/uncategorized/</link>
 		<description>Recent content in Uncategorized on My New Hugo Site</description>
 		<generator>Hugo 0.72.0 -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Tue, 19 Dec 2017 07:55:06 +0000</lastBuildDate>
-		<atom:link href="http://example.org/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://raphanw.github.io/raidadvice/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Mythic Antorus: Tips for Ranged DPS Part One</title>
-			<link>http://example.org/posts/mythic-antorus-tips-for-ranged-dps-part-one/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/mythic-antorus-tips-for-ranged-dps-part-one/</link>
 			<pubDate>Tue, 19 Dec 2017 07:55:06 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/mythic-antorus-tips-for-ranged-dps-part-one/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/mythic-antorus-tips-for-ranged-dps-part-one/</guid>
 			<description>&lt;p&gt; &lt;/p&gt;
 &lt;h1 id=&#34;about-what-is-this&#34;&gt;&lt;strong&gt;About: What is this?&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;I am writing just a few sentences outlining the things I thought were most important to focus on as a ranged DPS.&lt;/strong&gt; My guild downed the first 6 bosses in week one of mythic, with me playing Balance Druid. We have also had some good progression on the 7th. This guide comes from that experience. This guide assumes you have completed the bosses in heroic and will not cover heroic mechanics. This guide will not mention abilities that are the primary responsibility of tanks, healers, or melee classes. The dungeon journal is a great resource if you want to read about what every single mechanic does.&lt;/p&gt;
@@ -35,17 +35,17 @@
 		</item>
 		<item>
 			<title>Halfway Through Antorus</title>
-			<link>http://example.org/posts/halfway-through-antorus/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/halfway-through-antorus/</link>
 			<pubDate>Thu, 14 Dec 2017 04:13:27 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/halfway-through-antorus/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/halfway-through-antorus/</guid>
 			<description>&lt;p&gt;Hey there. I&amp;rsquo;m still around, moderating &lt;a href=&#34;https://www.reddit.com/r/competitivewow&#34;&gt;/r/competitivewow&lt;/a&gt; and playing in my guild &lt;a href=&#34;https://www.wowprogress.com/guild/us/stormrage/Storm&#34;&gt;Storm&lt;/a&gt;. I just haven&amp;rsquo;t had anything I felt compelled to blog about. Blizzcon was great. There was a fun panel with Day9 and several Warcraft content creators about how to effectively be a content creator, and a top suggestion was having a consistent release schedule. I&amp;rsquo;ve thought about getting into something like that on the blog. Maybe consistently releasing something on Tuesdays. We&amp;rsquo;ll see. I day-raided day one of a mythic release for the first time ever, and in the first week my (normally raiding only 7 hours per week) guild cleared half the bosses in the raid on mythic. That was exciting, but it leaves me wondering what we are going to be doing for the next X months until Battle for Azeroth is released. Method already has cleared the full raid, and on social media indicated that the first 9 bosses are of similar difficulty. The seven I have seen so far does little to dispel that notion. I like this raid&amp;rsquo;s design a bunch more than Tomb of Sargeras, but I don&amp;rsquo;t like how quickly we are looking to get through it. How has Antorus been going for you so far?&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Blizzcon 2017</title>
-			<link>http://example.org/posts/blizzcon-2017/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/blizzcon-2017/</link>
 			<pubDate>Mon, 23 Oct 2017 01:42:10 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/blizzcon-2017/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/blizzcon-2017/</guid>
 			<description>&lt;p&gt;I am heading to Blizzcon 2017! This will be my first Blizzcon- the first time I will visit Los Angeles/Anaheim as well. Aside from &amp;ldquo;go to Disneyland!&amp;rdquo; any tips for the visit? If you read this blog because we are online friends and you are going, be sure to reach out so we can say hi there.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -69,9 +69,9 @@
 		</item>
 		<item>
 			<title>Mythic Kil&#39;Jaeden Takeaways after 100 Pulls</title>
-			<link>http://example.org/posts/mythic-kiljaeden-takeaways-after-100-pulls/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/mythic-kiljaeden-takeaways-after-100-pulls/</link>
 			<pubDate>Fri, 13 Oct 2017 03:40:35 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/mythic-kiljaeden-takeaways-after-100-pulls/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/mythic-kiljaeden-takeaways-after-100-pulls/</guid>
 			<description>&lt;p&gt;A few nights into progression on the last boss in Tomb of Sargeras, here are my thoughts. If you are progressing on it or about to start, these are the things I wish we had all been clearer on beforehand.&lt;/p&gt;
 &lt;h2 id=&#34;red-orbs&#34;&gt;Red Orbs:&lt;/h2&gt;
 &lt;ul&gt;
@@ -92,9 +92,9 @@
 		</item>
 		<item>
 			<title>Mythic Maiden of Vigilance Phase One Quick Thoughts</title>
-			<link>http://example.org/posts/mythic-maiden-of-vigilance-phase-one-quick-thoughts/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/mythic-maiden-of-vigilance-phase-one-quick-thoughts/</link>
 			<pubDate>Thu, 31 Aug 2017 16:28:37 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/mythic-maiden-of-vigilance-phase-one-quick-thoughts/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/mythic-maiden-of-vigilance-phase-one-quick-thoughts/</guid>
 			<description>&lt;p&gt;Hey all. I&amp;rsquo;m still around, I&amp;rsquo;ve just been quite busy this summer and posting/making updates has been on the back-burner. I&amp;rsquo;ve gotten your comments &amp;amp; e-mails: I will try to get to updating the class guides &amp;amp; mythic+ pages, but no promises! As my guild works on Maiden of Vigilance, I have some quick thoughts on phase one of the boss that I explained in an imgur image. Maybe it will be of some use to you: &lt;a href=&#34;https://imgur.com/hNUitpv&#34;&gt;https://imgur.com/hNUitpv&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Boss is the Red X. Tanks below the X with backs to hole. Default positions during phase one should be with your group near the &amp;ldquo;1.&amp;rdquo; Try to drop the circles near &amp;ldquo;1&amp;rdquo; and move towards &amp;ldquo;2&amp;rdquo; so the other color can soak your circles without colliding with you. Reset to &amp;ldquo;1&amp;rdquo; once circles are soaked. Ranged stay mostly behind blue line melee stay mostly in front. Ranged and Melee avoid colliding, especially when dropping bombs in center hole. Ranged make sure to give melee enough room, stay behind the blue line!&lt;/p&gt;
@@ -104,9 +104,9 @@
 		</item>
 		<item>
 			<title>Preparing for Tomb of Sargeras</title>
-			<link>http://example.org/posts/preparing-for-tomb-of-sargeras/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/preparing-for-tomb-of-sargeras/</link>
 			<pubDate>Tue, 20 Jun 2017 03:22:56 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/preparing-for-tomb-of-sargeras/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/preparing-for-tomb-of-sargeras/</guid>
 			<description>&lt;p&gt;For learning the fights in Tomb of Sargeras, start with the in-game dungeon journal. Then head to some out-of-game Tomb of Sargeras specific resources. Here are some of the ones I used, in rough order from least to most-detailed:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mmo-champion.com/content/6517-World-of-Warcraft-Tomb-of-Sargeras-Minimalist-Raid-Guide&#34;&gt;MMo-Champion Minimalist Guide&lt;/a&gt;&lt;/li&gt;
@@ -120,9 +120,9 @@
 		</item>
 		<item>
 			<title>Raid for Legendaries</title>
-			<link>http://example.org/posts/raid-for-legendaries/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/raid-for-legendaries/</link>
 			<pubDate>Tue, 30 May 2017 03:41:37 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/raid-for-legendaries/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/raid-for-legendaries/</guid>
 			<description>&lt;p&gt;If you don&amp;rsquo;t have all the legendaries for your main spec and want to do something about it, this post is for you. &lt;a href=&#34;http://eu.battle.net/forums/en/wow/topic/17614472761?page=2#27&#34;&gt;Bad luck protection&lt;/a&gt; exists: the more chances you have to get a legendary, the better chance you will have of getting one. Killing a raid boss is one of the highest chances as getting a legendary. You can get legendaries on a fairly consistent basis now (1-2 weeks) if you put the work in. Kill every Legion raid boss you can, on all difficulties you can, every week, with your preferred spec as your loot spec. You will bump up your bad luck protection and have dozens of chances each week to get a new orange item. With Tomb of Sargeras a few weeks out, if you start now you can likely grab another few legendaries if you clear the raids. I was stuck at six legendaries, and over six weeks, clearing normal, heroic, and mythic of Emerald Nightmare, Trial of Valor, and Normal and Heroic Nighthold, I got to ten. Several friends have had similar success and recommended this method to me. If you want legendaries, this is the best way I know how to get them.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -138,9 +138,9 @@
 		</item>
 		<item>
 			<title>Raid Management: The Magic Number</title>
-			<link>http://example.org/posts/raid-management-the-magic-number/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/raid-management-the-magic-number/</link>
 			<pubDate>Mon, 08 May 2017 05:22:51 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/raid-management-the-magic-number/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/raid-management-the-magic-number/</guid>
 			<description>&lt;p&gt;Managing the roster of raiders is one of the most difficult parts of running a mythic raiding guild in World of Warcraft. As long as a guild has enough happy raiders showing up to raid every week, the guild will live on and the group will, in all likelihood, defeat more and more bosses. If a raiding guild fails to sustain its roster, it will fade out of existence. This happens enough in Warcraft that it is colloquially referred to as a guild dying to &amp;ldquo;the roster boss.&amp;rdquo; There have been many posts written about &lt;a href=&#34;http://raidadvice.com/how-to-find-a-new-guild-a-guide-and-case-study/&#34;&gt;how to find a guild&lt;/a&gt; or recruit. But how many raiders should the guild shoot for?&lt;/p&gt;
 &lt;h1 id=&#34;the-problem-why-numbers-matter&#34;&gt;The Problem: Why Numbers Matter&lt;/h1&gt;
 &lt;p&gt;In Warcraft currently, a group must bring exactly 20 raiders to the highest raiding difficulty, Mythic. For lower difficulty levels, a group can bring 10-30 raiders, and the encounter will adjust to match the size of the group. For those difficulties, a raiding roster of anywhere between 15-35 (or even lower/higher) can reliably raid every night it plans to without benching many (or any) raiders. For Mythic, a roster of fewer than 20 will likely cause the guild to fail, as few prefer to raid in a group that is gimping itself by not bringing 20 guild raiders to the encounters. A roster of too much more than 20 will also not work well for the guild, as players bored of being benched too much will leave. So, the key question is how many more than 20 is &amp;ldquo;too much more?&amp;rdquo; What&amp;rsquo;s the right number for most raid teams?&lt;/p&gt;
@@ -172,25 +172,25 @@
 		</item>
 		<item>
 			<title>To Consume or Not, That Is the Question</title>
-			<link>http://example.org/posts/to-consume-or-not-that-is-the-question/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/to-consume-or-not-that-is-the-question/</link>
 			<pubDate>Mon, 17 Apr 2017 06:50:39 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/to-consume-or-not-that-is-the-question/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/to-consume-or-not-that-is-the-question/</guid>
 			<description>&lt;p&gt;I have been enjoying my &lt;a href=&#34;http://www.wowhead.com/item=147707/repurposed-fel-focuser&#34;&gt;Repurposed Fel Focuser&lt;/a&gt;, a reusable item that costs 7500 &lt;a href=&#34;http://www.wowhead.com/currency=1226/nethershard&#34;&gt;Nethershards&lt;/a&gt; and provides a buff equal to a bit less than half a flask. I was running several easy Mythic+ with guild-members the other day, and one asked why I wasn&amp;rsquo;t using better consumables. I could have been using the full flask (and using &lt;a href=&#34;http://www.wowhead.com/item=142117/potion-of-prolonged-power&#34;&gt;Potions of Prolonged Power&lt;/a&gt; on cooldown). I have over one million gold, so I could afford the 500 per hour for flask or 1000 gold per hour for potions of prolonged power - but why spend 1500 per hour when we are consistently 3-chesting the Mythic+ dungeons without me doing so? The idea is that it makes the dungeons go faster, and as a DPS, your job is to make the dungeons go faster. For any difficult or progression content, I always use the best consumables I can get my hands on. For easy farm, the &amp;ldquo;why&amp;rdquo; eluded me a bit. The more I thought about it, the more I thought my guild-member might be right, though. At current wowtoken prices, the consumables would have cost an additional 25 cents per hour, and are at least partially offset by disenchanting the gear from the runs. Even if using better consumables shaves off a minute of time per hour, it&amp;rsquo;s probably worth doing. Saving such little gold is a false economy if it makes the dungeons even slightly slower, especially with the prices being what they are relative to my gold and the price of a wowtoken. If the potions were 20,000g per hour that might be a closer call. But as is, why not use them, even on easy content? My Fel Focuser is probably best used for world quests only, or even not at all in favor of more potent flasks. When prices are low, consume away!&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Feasts Are Back in Patch 7.2</title>
-			<link>http://example.org/posts/feasts-are-back-in-patch-7-2/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/feasts-are-back-in-patch-7-2/</link>
 			<pubDate>Mon, 27 Mar 2017 21:52:10 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/feasts-are-back-in-patch-7-2/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/feasts-are-back-in-patch-7-2/</guid>
 			<description>&lt;p&gt;Per the &lt;a href=&#34;https://worldofwarcraft.com/en-us/news/20629899/world-of-warcraft-7-2-the-tomb-of-sargeras-patch-notes&#34;&gt;7.2 patch notes&lt;/a&gt;, the best Legion feast (&lt;a href=&#34;http://www.wowhead.com/item=133579/lavish-suramar-feast&#34;&gt;Lavish Suramar Feast&lt;/a&gt;) grants 500 main stat (up from 200) in 7.2. This means that for most classes, feasts will be better than all other food options. Even the lesser feast (&lt;a href=&#34;http://www.wowhead.com/item=133578/hearty-feast&#34;&gt;Hearty Feast&lt;/a&gt;) will grant 400 main stat. If you cook your own food and don&amp;rsquo;t have rank 3 of the feasts, you might want to &lt;a href=&#34;http://raidadvice.com/how-to-target-specific-recipes-from-nomi/&#34;&gt;head back to Nomi&lt;/a&gt; with some materials. Make sure your raid group is ready to feast on some feasts!&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>What Boss Order Should We Follow in Nighthold After Mythic Trilliax?</title>
-			<link>http://example.org/posts/what-boss-order-should-we-follow-in-nighthold-after-mythic-trilliax/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/what-boss-order-should-we-follow-in-nighthold-after-mythic-trilliax/</link>
 			<pubDate>Mon, 27 Mar 2017 04:18:37 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/what-boss-order-should-we-follow-in-nighthold-after-mythic-trilliax/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/what-boss-order-should-we-follow-in-nighthold-after-mythic-trilliax/</guid>
 			<description>&lt;p&gt;Now that my guild has cleared seven bosses in Mythic Nighthold, I have some perspective on what boss order you might want to pursue. What boss should you target now if you are just getting to 3/10 Mythic bosses down (with patch 7.2 right around the corner)? The options for what boss to do fourth are Spellblade Aluriel, High Botanist Tel&amp;rsquo;arn, Krosus, and Tichondrius. From easiest to hardest, I suggest Spellblade &amp;lt; Krosus = Botanist &amp;lt; Tichondrius. Why? &lt;strong&gt;Spellblade&lt;/strong&gt; was &lt;a href=&#34;https://worldofwarcraft.com/en-us/news/20478238/hotfixes-march-21&#34;&gt;heavily nerfed&lt;/a&gt; just this past week. The boss is now definitely the easiest path forward. Follow this &lt;a href=&#34;https://www.youtube.com/watch?v=IEy1JBsh5-Y&#34;&gt;video guide&lt;/a&gt; by Kelani or something similar. Our raid killed Spellblade 7th, and with the nerf, Spellblade is now &lt;em&gt;significantly&lt;/em&gt; easier than the other three options. &lt;strong&gt;Krosus&lt;/strong&gt; has a DPS check that remains tight. However, the mechanics are fairly straightforward (&lt;a href=&#34;http://raidadvice.com/krosus-guide-how-to-soak-burning-pitch/&#34;&gt;check out the RaidAdvice guide&lt;/a&gt;), and if you lack the DPS check on Krosus, you are going to have a hard time on Tichondrius. There&amp;rsquo;s an argument for doing Botanist if your guild is missing the Krosus DPS check, but overall I think Krosus is a bit easier. It also rewards Tier gear. &lt;strong&gt;Botanist&lt;/strong&gt; is mechanically demanding and can be a frustrating fight. The hard part is getting down phase three, which comes after 6-8 fairly easy minutes of phase one and phase two. DPS is not a big issues on Botanist, and you may want to call for raiders to stop or slow DPS at certain points to ensure a smooth transition between the phases. &lt;strong&gt;Miniguide on Botanist&lt;/strong&gt;: We did the  Naturalist &amp;gt; Arcanist &amp;gt; Solarist kill order. In phase three, we soaked the first set of &lt;a href=&#34;http://www.wowhead.com/spell=218809/call-of-night&#34;&gt;Call of Night&lt;/a&gt; debuffs, then had the 2nd and 3rd set suicide by running into &lt;a href=&#34;http://www.wowhead.com/spell=219235/toxic-spores&#34;&gt;Toxic Spores&lt;/a&gt; as soon as they got the debuff. Every ranged should be prepared to run alongside someone who gets the 2nd or 3rd debuff set to minimize ticking damage on the raid while they suicide, and healers should save big cooldowns in case ticking damage gets through. It&amp;rsquo;s key to avoid deaths to silly mistakes in phase one and phase two so you can resurrect key players who suicide in phase three. &lt;strong&gt;Tichondrius&lt;/strong&gt; is now the hardest of the bunch, in my opinion. It&amp;rsquo;s close, and you could argue for doing Tichondrius after Spellblade. But while Krosus has a hard DPS check and Botanist requires mechanical precision, Tichondrius demands a bit of both from your raid. Blizzard did a great job with this balance of these bosses! Until the Spellblade nerfs, any of these four bosses was a viable fourth option. Giving meaningful choice to the raid in terms of boss order is cool. It allows guilds to pick a boss that might be more suited to their strengths (for example, Botanist for mechanically-oriented guilds or Krosus for guilds with top-notch DPS). Our raid killed Krosus &amp;gt; Tichondrius &amp;gt; Botanist &amp;gt; Spellblade. Since we knew we had the DPS check for Krosus, having killed it fourth like many other guilds did, we decided to do Tichondrius over Botanist since the mechanics on Botanist are a bit trickier. Ultimately, I think that Tichondrius ended up being harder to kill. It was a close decision on whether to do Botanist or Spellblade next (before the Spellblade nerf). Usually you can &lt;a href=&#34;http://raidadvice.com/use-wowprogress-to-pick-your-battles/&#34;&gt;follow wowprogress kill totals&lt;/a&gt; and just do the boss most people have killed and do fine. The kill counts right now line up with my recommended order, except that Spellblade still has fewer than Krosus, probably because the Spellblade nerf was so recent. Check out &lt;a href=&#34;https://www.reddit.com/r/CompetitiveWoW/comments/60bytv/spell_blade_or_tich/&#34;&gt;this reddit thread&lt;/a&gt; that discusses this topic. _The &amp;ldquo;correct&amp;rdquo; order might change based on subsequent patches - this is the order I recommend right at this moment. _&lt;em&gt;I intentionally do not address the question of &amp;ldquo;Are there issues in my guild if we are just now getting to 3/10M, and what do we do about them?&amp;rdquo; I am only addressing boss order in this post.&lt;/em&gt; Good luck with your progression!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -202,9 +202,9 @@
 		</item>
 		<item>
 			<title>Mythic Plus Keystones Next Week in 7.2</title>
-			<link>http://example.org/posts/mythic-plus-keystones-next-week-in-7-2/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/mythic-plus-keystones-next-week-in-7-2/</link>
 			<pubDate>Sat, 25 Mar 2017 19:19:28 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/mythic-plus-keystones-next-week-in-7-2/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/mythic-plus-keystones-next-week-in-7-2/</guid>
 			<description>&lt;p&gt;Patch 7.2 is coming this week (worry not, the new raid is still months out). If you routinely do a 15 keystone each week, you may want to do an 18 this week. Why? Starting with 7.2, each level will get more difficult, and a 10+ generates the maximum reward (of a 905 in your weekly cache). More significantly to this post, for this week only, if you do an 18 you will get a 10 in your bags next week. See this blue post for more information: &lt;a href=&#34;https://us.battle.net/forums/en/wow/topic/20753795211#1&#34;&gt;https://us.battle.net/forums/en/wow/topic/20753795211#1&lt;/a&gt;. Key you get next week based on highest key completed this week:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Mythic 2-8: level 2 Keystone Mythic 9-10: level 3 Mythic 11: level 4 Mythic 12: level 5 Mythic 13-14: level 6 Mythic 15: level 7 (each difficulty level above 15 increases next week’s Keystone level by 1)&lt;/p&gt;
@@ -224,9 +224,9 @@
 		</item>
 		<item>
 			<title>Mastery for Restoration Druid Raids in 7.1.5</title>
-			<link>http://example.org/posts/mastery-for-restoration-druid-raids-in-7-1-5/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/mastery-for-restoration-druid-raids-in-7-1-5/</link>
 			<pubDate>Thu, 16 Mar 2017 03:52:24 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/mastery-for-restoration-druid-raids-in-7-1-5/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/mastery-for-restoration-druid-raids-in-7-1-5/</guid>
 			<description>&lt;p&gt;Maybe &lt;a href=&#34;https://coffeecakesandcrits.wordpress.com/2017/02/14/the-druid-detective/&#34;&gt;gearing for mastery in raids&lt;/a&gt; is not so crazy for Restoration Druids for challenging progression content. In progression, players are often at low health. With the Cultivation talent, a Rejuvenation on a party member at low health is already 2 out of 3 of the HOTs for Restoration Druid mastery. Add in a Wild Growth, Spring Blossoms, Cenarion Ward, or Lifebloom, and you are getting full mastery benefit. A few Restoration druids I have talked to are using a Mastery heavy build on at least some fights. I don&amp;rsquo;t have all the answers here, but it is something at least worth thinking about.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -242,17 +242,17 @@
 		</item>
 		<item>
 			<title>Legion Guide Updates</title>
-			<link>http://example.org/posts/legion-guide-updates/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/legion-guide-updates/</link>
 			<pubDate>Tue, 21 Feb 2017 03:14:44 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/legion-guide-updates/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/legion-guide-updates/</guid>
 			<description>&lt;p&gt;This past weekend, I updated the Legion &lt;a href=&#34;http://raidadvice.com/world-of-warcraft-legion-class-guides/&#34;&gt;class guides compilation&lt;/a&gt;, adding a few new class-specific sites I have heard about in the past few months and altering the recommended guide for a few specs based on community feedback. In the past month or so I have also updated the &lt;a href=&#34;http://raidadvice.com/legion-mythic-plus-dungeons-guide/&#34;&gt;Mythic Plus Dungeons Guide&lt;/a&gt; and &lt;a href=&#34;http://raidadvice.com/withered-training-preparation-tips-and-tricks/&#34;&gt;Withered Training Guide&lt;/a&gt;, and added some comments to past articles for a bit of clarification. If you found one of those valuable in the past, you might want to check them out again. If you see something that looks like it still needs updating, let me know. As with every guide, try it out in game and make sure it works for you. As much as we all might like some &lt;a href=&#34;http://raidadvice.com/khadgar-admiration/&#34;&gt;Khadgar Admiration&lt;/a&gt;, you can&amp;rsquo;t believe everything you read.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Khadgar Admiration</title>
-			<link>http://example.org/posts/khadgar-admiration/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/khadgar-admiration/</link>
 			<pubDate>Sun, 19 Feb 2017 05:59:51 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/khadgar-admiration/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/khadgar-admiration/</guid>
 			<description>&lt;p&gt;I&amp;rsquo;m posting this because it seems that a surprising number of people don&amp;rsquo;t know about it. In 7.1.5, Blizzard added a repeatable quest to turn Order Hall Resources in to Khadgar in Dalaran as tribute. The more times you turn them in, the greater his admiration for you as a hero grows, and the higher base ilvl gear rewards you can get from world quests. It works very similarly to Artifact Knowledge research in your order hall. Like Artifact Knowledge (AK) increases your Artifact Power gains, Khadgar Admiration (KA) increases gains from world quests. Once you get to max KA (25/25) your world quest rewards will skyrocket, with a consistent base item level of 880/885 instead of 840/845. Just like AK, KA will have even more levels in 7.2, allowing you to further increase your world quest rewards.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -276,9 +276,9 @@
 		</item>
 		<item>
 			<title>Krosus Guide: How to Soak Burning Pitch</title>
-			<link>http://example.org/posts/krosus-guide-how-to-soak-burning-pitch/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/krosus-guide-how-to-soak-burning-pitch/</link>
 			<pubDate>Fri, 17 Feb 2017 06:04:24 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/krosus-guide-how-to-soak-burning-pitch/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/krosus-guide-how-to-soak-burning-pitch/</guid>
 			<description>&lt;p&gt;&lt;a href=&#34;http://www.wowhead.com/npc=101002/krosus&#34;&gt;Krosus&lt;/a&gt; is the fourth boss attempted by many guilds raiding &lt;a href=&#34;http://www.wowhead.com/the-nighthold&#34;&gt;The Nighthold&lt;/a&gt; on Mythic difficulty. Getting a fourth boss down is the first major &amp;ldquo;wall&amp;rdquo; to progression in mythic; as of this writing, &lt;a href=&#34;https://www.wowprogress.com/&#34;&gt;wowprogress&lt;/a&gt; indicated that around 2400 guilds have killed three bosses, while only around 700 have killed Krosus. One of the biggest difficulties on Krosus is soaking the &lt;a href=&#34;http://www.wowhead.com/spell=205420/burning-pitch&#34;&gt;Burning Pitch&lt;/a&gt; puddles to ensure that as few as possible &lt;a href=&#34;http://www.wowhead.com/npc=104262/burning-ember&#34;&gt;adds&lt;/a&gt; spawn. On Mythic, Krosus demands near-perfect puddle soaking. Too many adds will result in them killing raiders, and if a player dies without a battle resurrection available on Krosus, it will likely wipe the raid. If your raid is already soaking puddles perfectly, keep doing what you are doing. If not, perhaps this guide will help. This guide will outline how to soak burning pitch, as well as give a few other Krosus tips. This guide assumes a basic familiarity with the fight, and might be most appreciated by players who have wiped several times on the boss thinking that they would be fine using the same strategy they used in heroic.&lt;/p&gt;
 &lt;h1 id=&#34;burning-pitch-soaking-basics&#34;&gt;Burning Pitch Soaking Basics&lt;/h1&gt;
 &lt;p&gt;A perhaps obvious, but nonetheless key, tip to soaking is that multiple puddles that overlap may be soaked by the same player. Two puddles are generally safe to soak, and three or more may be safe with a defensive ability or cooldown. If someone else is straddling multiple puddles to soak them, you should find a different place to soak! Another key element is to leave before the puddles form so the raid team can sort out which to soak. This must be balanced with staying on boss to meet a tight DPS check. However, if everyone leaves after the puddles have appeared, the raid will likely miss puddles. A third rule of thumb is that, once someone is stationary on a puddle, assume they are staying there - you should get another puddle, not assume they will move off of it. Fourth, the back is the most important area of the room to soak. Ideally all unsoaked puddles will be near the front, in or near melee range of the boss so they can be cleaved down together.&lt;/p&gt;
@@ -310,17 +310,17 @@
 		</item>
 		<item>
 			<title>WOW Tokens Now Convertible to Battlenet Balance</title>
-			<link>http://example.org/posts/wow-tokens-now-convertible-to-battlenet-balance/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/wow-tokens-now-convertible-to-battlenet-balance/</link>
 			<pubDate>Tue, 07 Feb 2017 03:46:02 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/wow-tokens-now-convertible-to-battlenet-balance/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/wow-tokens-now-convertible-to-battlenet-balance/</guid>
 			<description>&lt;p&gt;New today, you can now use wowtokens to exchange them for either gametime OR battlenet balance in certain regions. Prices are going up (track prices on &lt;a href=&#34;http://wowtoken.info&#34;&gt;wowtoken.info&lt;/a&gt;). See the &lt;a href=&#34;https://worldofwarcraft.com/en-us/news/20542016&#34;&gt;official announcement&lt;/a&gt; for an &lt;a href=&#34;https://www.youtube.com/watch?v=BCWtkTWwpXM&#34;&gt;explanatory video&lt;/a&gt; and more details.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Flap - The Number One Reason to Play Druid</title>
-			<link>http://example.org/posts/flap-the-number-one-reason-to-play-druid/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/flap-the-number-one-reason-to-play-druid/</link>
 			<pubDate>Fri, 27 Jan 2017 14:50:35 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/flap-the-number-one-reason-to-play-druid/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/flap-the-number-one-reason-to-play-druid/</guid>
 			<description>&lt;p&gt;If you play Balance Druid and have not heard of &lt;a href=&#34;http://www.wowhead.com/spell=164862/flap&#34;&gt;Flap&lt;/a&gt;, you are missing out. It is our version of &lt;a href=&#34;http://www.wowhead.com/spell=130/slow-fall&#34;&gt;Slow Fall&lt;/a&gt;, usable only in Moonkin Form (you can use it in other specs with &lt;a href=&#34;http://www.wowhead.com/spell=197632/balance-affinity&#34;&gt;Balance Affinity&lt;/a&gt;). You learn the spell from a &lt;a href=&#34;http://www.wowhead.com/item=136794/tome-of-the-wilds-flap&#34;&gt;Tome&lt;/a&gt; that you can pick up in Moonglade or the Dreamgrove. This makes traveling around the broken isles much more quick, and, dare I say, fun. You cannot change directions while flapping, but with good aim, you can run off a cliff on your mount, start flapping, and float gracefully (or not-so-gracefully depending on how you view fat chickens frantically flapping their arms) to your destination. I think this goes against the spirit of flap, but in patch 7.1.5, you can now use flap with glyph of the stars. You look like you are levitating, not flapping, but the effect is the same. With this macro: &lt;code&gt;#showtooltip Flap /stopcasting [mod:alt] /use [nomod:alt]Flap&lt;/code&gt; Flap gets even more powerful. You can cancel flap with alt + the key you bind flap to, then recast it before you hit the ground. Flap gets supercharged when used with &lt;a href=&#34;http://www.wowhead.com/item=139773/emerald-winds&#34;&gt;The Emerald Winds&lt;/a&gt;. With Flap and Winds, you can gain altitude slightly while flapping around, and you can change direction! Take a flight point to somewhere high, and Winds + Flap to your destination. Flap - never leave home without it. Image: &lt;a href=&#34;http://imgur.com/EawakIe&#34;&gt;Check out the Majesty of Flap + Winds&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -332,9 +332,9 @@
 		</item>
 		<item>
 			<title>Balance Druid: My Trinket and Gear Sims Start of Nighthold</title>
-			<link>http://example.org/posts/balance-druid-my-trinket-and-gear-sims-start-of-nighthold/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/balance-druid-my-trinket-and-gear-sims-start-of-nighthold/</link>
 			<pubDate>Wed, 25 Jan 2017 04:10:11 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/balance-druid-my-trinket-and-gear-sims-start-of-nighthold/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/balance-druid-my-trinket-and-gear-sims-start-of-nighthold/</guid>
 			<description>&lt;p&gt;As a follow up to &lt;a href=&#34;http://raidadvice.com/balance-druid-my-trinket-sims-end-of-trial-of-valor/&#34;&gt;my sims at the end of 7.1&lt;/a&gt;, I &lt;a href=&#34;http://raidadvice.com/remember-to-update-simulationcraft/&#34;&gt;updated Simcraft&lt;/a&gt; and am updating my simulations as of the start of Nighthold. I simulated using my current best gear. Single target used Starlord, Incarnation, Blessing of the Ancients, and Stellar Drift, and 3-target used Force of Nature, Soul of the Forest, Shooting Stars, and Stellar Drift.&lt;/p&gt;
 &lt;h1 id=&#34;trinkets&#34;&gt;Trinkets&lt;/h1&gt;
 &lt;p&gt;The nerfs to AOE trinkets/buffs to stat-based trinkets going into Nighthold are remarkable. My 895 &lt;a href=&#34;http://www.wowhead.com/item=140809/whispers-in-the-dark&#34;&gt;Whispers in the Dark&lt;/a&gt; (bonus roll first week, don&amp;rsquo;t hate me) and my 860 &lt;a href=&#34;http://www.wowhead.com/item=141482/unstable-arcanocrystal&#34;&gt;Unstable Arcanocrystal&lt;/a&gt; (I guess it&amp;rsquo;s OK to hate me a little) are my best trinkets in all situations. A 885 &lt;a href=&#34;http://www.wowhead.com/item=140792/erratic-metronome&#34;&gt;Erratic Metronome&lt;/a&gt;, which I do not yet have, might be slightly better than the Arcanocrystal at AOE, but it&amp;rsquo;s basically a wash. Swapping to &lt;a href=&#34;http://www.wowhead.com/item=142157/arans-relaxing-ruby&#34;&gt;Aran&amp;rsquo;s Relaxing Ruby&lt;/a&gt; and &lt;a href=&#34;http://www.wowhead.com/item=138224/unstable-horrorslime&#34;&gt;Unstable Horrorslime&lt;/a&gt; for AOE was a short-lived experience. My trinket results overall match up well with the &lt;a href=&#34;http://raidadvice.com/balance-druid-gear-spreadsheets-for-nighthold/&#34;&gt;Balance Druid Trinket Spreadsheet&lt;/a&gt; (Whispers is still best, though not quite &lt;em&gt;as&lt;/em&gt; best since it was nerfed slightly this week).&lt;/p&gt;
@@ -354,9 +354,9 @@
 		</item>
 		<item>
 			<title>Balance Druid Encounter Notes for Heroic Nighthold: Talents and Trinkets</title>
-			<link>http://example.org/posts/balance-druid-encounter-notes-for-heroic-nighthold-talents-and-trinkets/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/balance-druid-encounter-notes-for-heroic-nighthold-talents-and-trinkets/</link>
 			<pubDate>Tue, 24 Jan 2017 06:00:11 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/balance-druid-encounter-notes-for-heroic-nighthold-talents-and-trinkets/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/balance-druid-encounter-notes-for-heroic-nighthold-talents-and-trinkets/</guid>
 			<description>&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1c6-_akHl_Cja-uwg20Gt8R0f12pcw4_qtVcT7LyZW4A/edit&#34;&gt;Gebuz&amp;rsquo;s Guide&lt;/a&gt;, linked from the &lt;a href=&#34;http://raidadvice.com/world-of-warcraft-legion-class-guides/&#34;&gt;Class Guides Page&lt;/a&gt;, outlines several talent combinations for Nighthold. Many more combinations are possible after patch 7.1.5, as several talent options have been buffed to be more competitive. I tried out a few things the first week, and also &lt;a href=&#34;http://raidadvice.com/learn-from-logs-picking-the-top-talents/&#34;&gt;looked at top logs&lt;/a&gt;. What follows are my plans for this week in Nighthold.&lt;/p&gt;
 &lt;h1 id=&#34;ideas&#34;&gt;Ideas&lt;/h1&gt;
 &lt;p&gt;My talents selections are in shorthand and refer to each talent&amp;rsquo;s position in the Nth row. For example, &amp;ldquo;1233112&amp;rdquo; would be a standard frequent-AOE build, with &lt;a href=&#34;http://www.wowhead.com/spell=205636/force-of-nature&#34;&gt;Force of Nature&lt;/a&gt;, &lt;a href=&#34;http://www.wowhead.com/spell=102280/displacer-beast&#34;&gt;Displacer Beast&lt;/a&gt;, &lt;a href=&#34;http://www.wowhead.com/spell=197492&#34;&gt;Restoration Affinity&lt;/a&gt;, &lt;a href=&#34;http://www.wowhead.com/spell=132469/typhoon&#34;&gt;Typhoon&lt;/a&gt;, &lt;a href=&#34;http://www.wowhead.com/spell=114107/soul-of-the-forest&#34;&gt;Soul of the Forest&lt;/a&gt;, &lt;a href=&#34;http://www.wowhead.com/spell=202342/shooting-stars&#34;&gt;Shooting Stars&lt;/a&gt;, and &lt;a href=&#34;http://www.wowhead.com/spell=202354/stellar-drift&#34;&gt;Stellar Drift&lt;/a&gt;. It may be easier to follow along with the &lt;a href=&#34;http://www.wowhead.com/talent-calc/druid/balance&#34;&gt;Balance Druid Talent Calculator&lt;/a&gt; open in game or in another window. I favor Stellar Drift for all fights as ads are usually high priority, and my &lt;a href=&#34;http://www.wowhead.com/item=137092/oneths-intuition&#34;&gt;Oneth&amp;rsquo;s Intuition&lt;/a&gt; legendary gives free Starfalls to boot. I dislike Displacer Beast and try to use Wild Charge or Renewal when possible to save GCDs. If you are worried about reacting slowly or need to move far distances, Displacer Beast is the safer bet. I like Starlord with Incarnation builds and Force of Nature or Warrior of Elune with Soul of the Forest builds. Taking Starlord when you intend to be casting Starfall with most of your Astral Power seems very unintuitive to me.&lt;/p&gt;
@@ -368,9 +368,9 @@
 		</item>
 		<item>
 			<title>Preparing for Nighthold</title>
-			<link>http://example.org/posts/preparing-for-nighthold/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/preparing-for-nighthold/</link>
 			<pubDate>Mon, 23 Jan 2017 06:33:33 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/preparing-for-nighthold/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/preparing-for-nighthold/</guid>
 			<description>&lt;p&gt;I realized I did not make a preparing for Nighthold post like my &lt;a href=&#34;http://raidadvice.com/preparing-for-the-emerald-nightmare/&#34;&gt;Preparing for the Emerald Nightmare post&lt;/a&gt;. The reason? I didn&amp;rsquo;t have to. I actually read that prior post and followed its advice in preparing for Nighthold. Many of the links now lead to Nighthold information, and the same principles for preparation that applied then apply now. And the preparation worked out pretty well - I did well both as Balance and offhealing (considering my gear and Artifact Power) as Restoration. We cleared 9/10H during our seven hours of raid, and many of us got together and managed to down Heroic Gul&amp;rsquo;dan (after 10/10 normal) on our optional Sunday run. I am excited for Mythic progression, which for me is &amp;ldquo;the real challenge.&amp;rdquo; At some point I may rewrite that article generalizing for all raids. For now, if you are wondering what more you can do to prepare for Nighthold, check out that post. I have pre-written a few posts about Balance Druid and Nighthold that you can expect to see this coming week, if you are focused on Balance Druid preparation in particular.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -386,9 +386,9 @@
 		</item>
 		<item>
 			<title>Balance Druid Gear Spreadsheets for Nighthold</title>
-			<link>http://example.org/posts/balance-druid-gear-spreadsheets-for-nighthold/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/balance-druid-gear-spreadsheets-for-nighthold/</link>
 			<pubDate>Wed, 18 Jan 2017 05:25:38 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/balance-druid-gear-spreadsheets-for-nighthold/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/balance-druid-gear-spreadsheets-for-nighthold/</guid>
 			<description>&lt;p&gt;Unlike my &lt;a href=&#34;http://raidadvice.com/balance-druid-gear-spreadsheet-for-the-emerald-nightmare/&#34;&gt;Emerald Nightmare Balance Druid Spreadsheet&lt;/a&gt;, I did not make these two google docs. However, they are great baseline comparison tools for Balance Druid gear from the Nighthold: &lt;a href=&#34;https://docs.google.com/spreadsheets/d/12_FLVPAbGQTxSg42uC1N9r4wvtNF3swW7L3Z-aVHLgQ/&#34;&gt;Trinket Comparison Spreadsheet&lt;/a&gt;; &lt;a href=&#34;https://docs.google.com/spreadsheets/d/10r4a77VQt53vQ6YnR0NUnw0rCq0ZLBqWId7FpB0qq_E/&#34;&gt;Gear Comparison Spreadhseet&lt;/a&gt;. Both were sticky posts in the Druid Discord channel. Check out your class and spec at the &lt;a href=&#34;http://raidadvice.com/world-of-warcraft-legion-useful-discord-channels/&#34;&gt;Useful Discord Channel List&lt;/a&gt; I compiled. More and more, the class Discord channels are becoming the go-to place for up-to-the-minute information about your class. Sensibly, &lt;a href=&#34;http://www.wowhead.com/item=142157/arans-relaxing-ruby&#34;&gt;Aran&amp;rsquo;s Relaxing Ruby&lt;/a&gt; has been nerfed. It is still okay-ish for AOE, but it is no longer the best single target trinket (combined with the Nightbane chest) as it was when I &lt;a href=&#34;http://raidadvice.com/balance-druid-my-trinket-sims-end-of-trial-of-valor/&#34;&gt;simmed a few weeks ago&lt;/a&gt;. On top for single target are &lt;a href=&#34;http://www.wowhead.com/item=140809/whispers-in-the-dark&#34;&gt;Whispers in the Dark&lt;/a&gt; and &lt;a href=&#34;http://www.wowhead.com/item=140792/erratic-metronome&#34;&gt;Erratic Metronome&lt;/a&gt;. I did not score the Metronome when we went 7/10H in the first night of Nighthold, but my &lt;a href=&#34;http://www.wowhead.com/item=141482/unstable-arcanocrystal&amp;amp;bonus=3466&#34;&gt;Unstable Arcanocrystal&lt;/a&gt; and 880 &lt;a href=&#34;http://www.wowhead.com/item=142166/ethereal-urn&#34;&gt;Ethereal Urn&lt;/a&gt; are about as good as you can get outside those two.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -404,17 +404,17 @@
 		</item>
 		<item>
 			<title>Get 20% Better at Raiding in One Simple Step</title>
-			<link>http://example.org/posts/get-20-better-at-raiding-in-one-simple-step/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/get-20-better-at-raiding-in-one-simple-step/</link>
 			<pubDate>Tue, 17 Jan 2017 05:50:36 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/get-20-better-at-raiding-in-one-simple-step/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/get-20-better-at-raiding-in-one-simple-step/</guid>
 			<description>&lt;p&gt;Whether it&amp;rsquo;s friends asking for tips on a spec, readers wondering if a guide is accurate, or people in trade chat wondering if &lt;a href=&#34;http://www.wowhead.com/item=19019/thunderfury-blessed-blade-of-the-windseeker&#34;&gt;Thunderfury&lt;/a&gt; is their best in slot legendary, people often reach out to me and ask how they can get better at raiding. There are many complicated methods of getting better. We can analyze logs. We can eek out small gains in Simcraft. We can acquire better gear. We can practice our rotation. We can study encounters and develop strategies to overcome them. Those are all good things to do, and in past expansions, one of them might have been my top suggestion for getting better results. Not in Legion though. In Legion, this one simple tip is your best bet for improvement: Complete as many Mythic Plus Dungeons as you can. It&amp;rsquo;s a long process and is not easy, since the beginning of the end (54 traits in your primary spec) is over 200 dungeons away. But it&amp;rsquo;s very simple. And I am not being facetious here. Mythic Plus dungeons are likely the quickest, most repeatable way to acquire artifact power, and getting enough artifact power for 54 traits is guaranteed to make you 15-20% better than you were at 34 traits. Not only that, Mythic Plus may reward you with gear improvements. It lets you practice your spec as well. You can be bad at analyzing logs or understanding encounters. But no matter your skill level, you will be 15-20% better after maximizing your artifact weapon. If you get good legendary drops or titanforges, you might be even more than 20% more effective after completing the grind. Logs? Simcraft? Gear? Practice? Preparation? Nah. Just spam dungeons.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Delete your Hearthstone</title>
-			<link>http://example.org/posts/delete-your-hearthstone/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/delete-your-hearthstone/</link>
 			<pubDate>Fri, 06 Jan 2017 05:22:37 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/delete-your-hearthstone/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/delete-your-hearthstone/</guid>
 			<description>&lt;p&gt;If you don&amp;rsquo;t love special events, the recent Diablo-themed Warcraft event may have caused your eyes to glaze over. You may have missed the limited-availability &lt;a href=&#34;http://www.wowhead.com/item=142542/tome-of-town-portal&#34;&gt;Tome of Town Portal&lt;/a&gt;. This toy is obtained easily by killing and looting 5 or so &lt;a href=&#34;http://ru.wowhead.com/npc=116041/treasure-goblin&#34;&gt;Treasure Goblins&lt;/a&gt;. They appear in various places - the easiest place to farm them is the Dalaran Underbelly, where they appear every few minutes. It shares a cooldown with and has the same functionality as a Hearthstone, but it is a toy so it doesn&amp;rsquo;t take up bag space. Move aside Hearthstone - the Tome has arrived!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -426,9 +426,9 @@
 		</item>
 		<item>
 			<title>Balance Druid: My Trinket Sims end of Trial of Valor</title>
-			<link>http://example.org/posts/balance-druid-my-trinket-sims-end-of-trial-of-valor/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/balance-druid-my-trinket-sims-end-of-trial-of-valor/</link>
 			<pubDate>Sat, 31 Dec 2016 06:55:51 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/balance-druid-my-trinket-sims-end-of-trial-of-valor/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/balance-druid-my-trinket-sims-end-of-trial-of-valor/</guid>
 			<description>&lt;p&gt;Hey everyone. I am still around; I simply haven&amp;rsquo;t had much I wanted to post about. The game and my life have both kept me pretty busy. The &lt;a href=&#34;http://raidadvice.com/world-of-warcraft-legion-class-guides/&#34;&gt;Legion class guide compilation&lt;/a&gt; and &lt;a href=&#34;http://raidadvice.com/legion-mythic-plus-dungeons-guide/&#34;&gt;Mythic+ Guide post&lt;/a&gt; are still pretty current. I plan to do a significant review of them once Nighthold comes out. In the next week or two, there are a few posts I could make: I joined a new 2-day guild (we are 2/3 Mythic ToV); I have thoughts on Restoration Druid M+ talents; I suspected Feral Affinity was great months ago, and now top Balance Druids are starting to use it in raids. I simmed my druid recently. The simulation confirmed what I had thought. Of the trinkets I currently have, the two non-raid, non-Mythic+ trinkets are my best single target trinkets. &lt;a href=&#34;http://imgur.com/ZpK2fdh&#34;&gt;Single Target Results&lt;/a&gt;; &lt;a href=&#34;http://imgur.com/H4hvZ9k&#34;&gt;Three-Target Results&lt;/a&gt;. &lt;a href=&#34;http://www.wowhead.com/item=142157/arans-relaxing-ruby&#34;&gt;Aran&amp;rsquo;s Relaxing Ruby&lt;/a&gt;, which drops from Karazhan, is my best trinket. When buffed by the Nightbane chest, is incredibly strong. It is an AOE trinket that is my best single target trinket. On AOE it is incredible. &lt;a href=&#34;http://www.wowhead.com/item=141482/unstable-arcanocrystal&amp;amp;bonus=3466&#34;&gt;Unstable Arcanocrystal&lt;/a&gt;, which drops from a world boss that spawns every other month or so, is my second best trinket for single target. These ilvl 860 trinkets outclass my 880 socketed &lt;a href=&#34;http://www.wowhead.com/item=139321/swarming-plaguehive&amp;amp;bonus=1807&#34;&gt;Swarming Plaguehive&lt;/a&gt; on single target, and the Ruby is better than my 890 titanforged-socketed &lt;a href=&#34;http://www.wowhead.com/item=138224/unstable-horrorslime&amp;amp;bonus=1807&#34;&gt;Unstable Horrorslime&lt;/a&gt; on AOE. 30 ilvls and a socket: still not as good as the ruby. As someone who is mostly motivated to play by raiding, it feels a bit odd that my best trinkets come from outside of raid. And not just outside of raid. One is RNG on top of RNG, dropping on one of three times I was able to kill and bonus roll a world boss this expansion. The other came from a boss late in Karazhan, which, while a fun dungeon, isn&amp;rsquo;t something I wanted to feel obligated to run in its entirety every week for a shot at my best trinket. And these are just the trinkets I have - an 880 titanforged haste statstick would be incredible, as would one or two 880+ titanforged trinkets from dungeons. Anyhow, I might go into more detail about Legion gearing at some point. For now, have a happy New Year&amp;rsquo;s Eve!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -440,9 +440,9 @@
 		</item>
 		<item>
 			<title>Legion Mythic Plus Dungeons Guide</title>
-			<link>http://example.org/posts/legion-mythic-plus-dungeons-guide/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/legion-mythic-plus-dungeons-guide/</link>
 			<pubDate>Tue, 15 Nov 2016 07:33:00 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/legion-mythic-plus-dungeons-guide/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/legion-mythic-plus-dungeons-guide/</guid>
 			<description>&lt;p&gt;&lt;strong&gt;EDIT 2017-4-6: Mythic Plus has changed last week with Patch 7.2. This change includes 3 new dungeons, new affixes, and max gear reward at M+10. Aside from that, the below information is still mostly accurate.&lt;/strong&gt; (Last Revised 2017-1-21, see &lt;a href=&#34;#Changelog&#34;&gt;Changelog&lt;/a&gt; below) This guide presents my thoughts and tips on Legion&amp;rsquo;s Mythic Plus dungeons. I cover general strategy, affixes, and dungeons. This is intended to be a living document, updated with suggestions or as Blizzard adds or changes content. I have gotten the highest rewarding M+ level most every week since they were released, and have tanked, healed, and DPS&amp;rsquo;d high levels of Mythic+ on my Druid and tanked on my Paladin. My highest completed as of January 21, 2017 is M+16; I completed the &lt;a href=&#34;http://www.wowhead.com/achievement=11162/keystone-master&#34;&gt;Keystone Master&lt;/a&gt; achievement December 16, 2016 (&lt;a href=&#34;https://www.twitch.tv/raphanw/v/107996645&#34;&gt;twitch video&lt;/a&gt; of Neltharion&amp;rsquo;s Lair +15, Balance Druid POV). On November 14, 2016, some friends and I completed M+13 Court of Stars, before it had been nerfed. I played a Restoration Druid (&lt;a href=&#34;https://www.twitch.tv/raphanw/v/100809759&#34;&gt;twitch video of final boss kill&lt;/a&gt; after hours of wipes). This guide assumes a reasonable familiarity with Mythic+ and is targeted at players looking to improve their performance. For a basic overview of what Mythic+ dungeons are and how they work, &lt;a href=&#34;http://www.wowhead.com/mythic-keystones-and-dungeons-guide&#34;&gt;this guide on wowhead&lt;/a&gt; does well. The linked guides of each dungeon there are a good way to get a very detailed understanding of most bosses, mobs, and mechanics of each dungeon.&lt;/p&gt;
 &lt;h1 id=&#34;rewards&#34;&gt;Rewards&lt;/h1&gt;
 &lt;p&gt;Mythic+ dungeons are pretty fun and a reward unto themselves, allowing you to challenge your best times and highest level completed while adding variety with new affix combinations each week. Wait, you need a reason to repeatedly run the same 9 dungeons other than enjoyment? Hmph, well then! Mythic+ dungeons are a great source of &lt;a href=&#34;http://www.wowhead.com/artifact-weapons-guide#power&#34;&gt;Artifact Power&lt;/a&gt;, especially if you complete them quickly. They have a chance to drop Legendary items each time you complete a dungeon. They reward gear that increases in iLvL the higher Mythic+ you do. They also reward a weekly chest in you class hall with a random piece of loot whose iLvL is based on the highest Mythic+ you did the previous week (at the start of patch 7.1.5, the highest base reward is iLvL 900 from doing a Mythic+15 the previous week).&lt;/p&gt;
@@ -527,25 +527,25 @@
 		</item>
 		<item>
 			<title>Use Wowprogress to Pick your Battles</title>
-			<link>http://example.org/posts/use-wowprogress-to-pick-your-battles/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/use-wowprogress-to-pick-your-battles/</link>
 			<pubDate>Thu, 10 Nov 2016 06:10:55 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/use-wowprogress-to-pick-your-battles/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/use-wowprogress-to-pick-your-battles/</guid>
 			<description>&lt;p&gt;My guild opted to spend tonight progressing on Mythic &lt;a href=&#34;http://www.wowhead.com/npc=105393/ilgynoth&#34;&gt;Heart&lt;/a&gt; rather than entering Heroic &lt;a href=&#34;http://www.wowhead.com/trial-of-valor&#34;&gt;Trial of Valor&lt;/a&gt;. I think this was a great decision. It was motivated in part by worth of mouth recounts, and in part by &lt;a href=&#34;http://www.wowprogress.com/&#34;&gt;wowprogress&lt;/a&gt; results. Scroll to the bottom of the front page of wowprogress to see how many guilds have downed each boss in the current tier. On Tuesday, the first day Trials opened, less than 200 guilds had killed Heroic Odyn, the first boss of the instance. That&amp;rsquo;s less than half a percent of tracked guilds. Our average ilvl is around 875; spending a night wiping to a boss most guilds couldn&amp;rsquo;t kill in a night of raiding for gear with a base ilvl 10 below ours seemed like a poor investment. Yes, the new raid is exciting, and some of us will likely tackle normal on off nights. But with current tuning, getting in more attempts on Heart was a better idea than starting fresh on Odyn. Wowprogress helped guilds early in the tier too, and it can still help yours. For example, if deciding between Dragons and Heart, all else being equal you should choose Dragons first. Many more guilds have killed it. Check what more-progressed guilds have done and follow the path of least resistance. More often than not, it will be the best choice for your raid group.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Remember to Update Simulationcraft</title>
-			<link>http://example.org/posts/remember-to-update-simulationcraft/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/remember-to-update-simulationcraft/</link>
 			<pubDate>Tue, 08 Nov 2016 05:57:59 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/remember-to-update-simulationcraft/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/remember-to-update-simulationcraft/</guid>
 			<description>&lt;p&gt;Remember to keep &lt;a href=&#34;http://simulationcraft.org/download.html&#34;&gt;Simcraft updated&lt;/a&gt;! I got better gear and my simulated damage went down. I made sure to use the &lt;a href=&#34;https://mods.curse.com/addons/wow/simulationcraft&#34;&gt;Simulationcraft addon&lt;/a&gt; to import (apparently it can avoid glitches with importing from armory) and updated Simcraft. My simmed damage went up, which was as expected. Thanks to my Shammy buddy who suggested I try updating - it worked. Make sure to keep Simcraft up to date for accurate results.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>So Many Changes in Legion Patches 7.1, 7.1.5, and 7.2</title>
-			<link>http://example.org/posts/so-many-changes-in-legion-patches-7-1-7-1-5-and-7-2/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/so-many-changes-in-legion-patches-7-1-7-1-5-and-7-2/</link>
 			<pubDate>Mon, 07 Nov 2016 06:48:18 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/so-many-changes-in-legion-patches-7-1-7-1-5-and-7-2/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/so-many-changes-in-legion-patches-7-1-7-1-5-and-7-2/</guid>
 			<description>&lt;p&gt;There were a great deal of changes announced for 7.1.5 and 7.2 at Blizzcon this weekend. &lt;a href=&#34;https://www.reddit.com/r/wow/comments/5b6juh/wow_legion_whats_next_summary/&#34;&gt;This Reddit post&lt;/a&gt; has a good summary. Blizzcon was great, but I am busy enjoying all the 7.1  changes! I haven&amp;rsquo;t been posting much because I haven&amp;rsquo;t wanted to take my free time away from playing to write guides in the detail that I have come to expect of myself.&lt;/p&gt;
 &lt;h1 id=&#34;druid-changes&#34;&gt;Druid Changes&lt;/h1&gt;
 &lt;p&gt;7.1 seemed in part to be a love letter to druids. Many of the changes I am really digging are druid specific:&lt;/p&gt;
@@ -601,9 +601,9 @@
 		</item>
 		<item>
 			<title>How to Find a New Guild - A Guide and Case Study</title>
-			<link>http://example.org/posts/how-to-find-a-new-guild-a-guide-and-case-study/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/how-to-find-a-new-guild-a-guide-and-case-study/</link>
 			<pubDate>Mon, 24 Oct 2016 03:59:59 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/how-to-find-a-new-guild-a-guide-and-case-study/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/how-to-find-a-new-guild-a-guide-and-case-study/</guid>
 			<description>&lt;p&gt;Regular readers may have noticed the dearth of posts the past few weeks. In that time, I searched for and found a new guild: &lt;a href=&#34;http://www.seppukustormrage.shivtr.com/&#34;&gt;Seppuku&lt;/a&gt;, a 3/7 M 2-night guild on US-Stormrage. As of this posting, the guild is looking for a few more ranged DPS, hoping to round out the roster to 24-25 raiders.&lt;/p&gt;
 &lt;h1 id=&#34;why-find-a-new-guild&#34;&gt;Why find a new guild?&lt;/h1&gt;
 &lt;p&gt;If you are happy in your current guild, you should strongly consider staying there. Changing guilds, especially if it involves paying real life money for a server transfer, brings with it some risk and uncertainty. Have a specific reason why you need to look for a new guild. I was very happy with my past guild (&lt;a href=&#34;http://www.dinosaurcowboys.net/&#34;&gt;Dinosaur Cowboys&lt;/a&gt;, a 4/7 M 2-night guild on US-Sargeras), except for one thing. It was located on &amp;ldquo;my&amp;rdquo; alliance server where I had over one million gold and 12 90+ alliance toons. It raided 2 weeknights, which is ideal for me right now. It had a great atmosphere, a long history, and a positive raiding environment. It was well organized, and I liked the people. The only problem was that the guild didn&amp;rsquo;t think it needed me. It had 36+ players step into the raid in the first three weeks of mythic, and outside of the dozen or so &amp;ldquo;core&amp;rdquo; members who were getting nearly 100% time, playing time was pretty sparse. I was only seeing about 25% of the mythic pulls. I am fine with sitting some, but 3/4 of the time was far too much. On the week before I left, I saw 0 of the guild&amp;rsquo;s 3 mythic farm kills and did not get in at all on the second raid night. I had raised the issue with the officers after the first week and hadn&amp;rsquo;t seen much improvement in play time. I was on the fence about leaving because the guild was otherwise a perfect fit, but sitting for the entire night as multiple players were rotated in made it clear to me that I had to leave. The guild is progressing well through The Emerald Nightmare with their current roster management system, so even though I was the only balance druid and performing well, there&amp;rsquo;s a sense in which they really &lt;em&gt;don&amp;rsquo;t&lt;/em&gt; need me. I think that my dedication and my performance (e.g., my &lt;a href=&#34;https://www.warcraftlogs.com/reports/mYBp6qRfvP4ZA81G#fight=15&amp;amp;type=damage-done&#34;&gt;most recent mythic Ursoc kill&lt;/a&gt;, on Raphkin, vs &lt;a href=&#34;https://www.warcraftlogs.com/reports/M7GV6XFbzNpZwQ8g#fight=13&amp;amp;type=damage-done&#34;&gt;theirs&lt;/a&gt;) indicated I could have helped push progression there, but ultimately I wasn&amp;rsquo;t getting the chance to prove it. I enjoyed leveling up and doing mythic+s with them, I made a few friends, and I got some good raid time and logs in on heroic (where I was never sat). I enjoyed my time there and left at the right time. I wish them well, and might consider playing with them again under the right circumstances. I wish I hadn&amp;rsquo;t had to leave, as I had seen the guild as a potentially permanent home.&lt;/p&gt;
@@ -672,17 +672,17 @@
 		</item>
 		<item>
 			<title>Mount Macros Revisited</title>
-			<link>http://example.org/posts/mount-macros-revisited/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/mount-macros-revisited/</link>
 			<pubDate>Wed, 12 Oct 2016 01:58:16 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/mount-macros-revisited/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/mount-macros-revisited/</guid>
 			<description>&lt;p&gt;A &lt;a href=&#34;https://coffeecakesandcrits.wordpress.com/2016/10/01/mount-macros/&#34;&gt;post over at Coffee Cakes and Crits&lt;/a&gt; showed a creative way to incorporate toys and pets into your mount macro. Fun times. I also discovered recently that Blizzard has updated it&amp;rsquo;s &amp;ldquo;Favorite Mount&amp;rdquo; logic, so you will cast a mount with a ground animation when in non-flying zones and a mount that can fly in flying zones. It seems like they did this on a pretty smart per mount basis - &lt;a href=&#34;http://www.wowhead.com/item=33999/cenarion-war-hippogryph&#34;&gt;Cenarion War Hippogryph&lt;/a&gt; has a goofy run animation with its wings so it casts only in flying zones, but &lt;a href=&#34;http://www.wowhead.com/item=89363/disc-of-the-red-flying-cloud&#34;&gt;Red Flying Cloud&lt;/a&gt; looks nifty on the ground and it casts in both. All ground-only mounts will cast in only nonflying areas. So, I have made a revision to my mount macro &lt;a href=&#34;http://raidadvice.com/mount-up-and-do-mythics/&#34;&gt;since I last shared it&lt;/a&gt;. Here it is: &lt;code&gt;/dismount /cast Archmage Vargoth&#39;s Spare Staff /rfp /castrandom [mod:alt]Azure Water Strider, Crimson Water Strider /cast [mod:shift]Grand Expedition Yak;[mod:ctrl]X-53 Touring Rocket /cancelform [stance:1/2] /run C_MountJournal.SummonByID(0)&lt;/code&gt; As noted by &lt;a href=&#34;https://coffeecakesandcrits.wordpress.com/author/wrathofkublakhan/&#34;&gt;wrathofkublakhan&lt;/a&gt;, /rfp summons a random favorite pet. Enjoy!&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Learn from Logs: Picking the Top Talents</title>
-			<link>http://example.org/posts/learn-from-logs-picking-the-top-talents/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/learn-from-logs-picking-the-top-talents/</link>
 			<pubDate>Tue, 11 Oct 2016 00:54:50 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/learn-from-logs-picking-the-top-talents/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/learn-from-logs-picking-the-top-talents/</guid>
 			<description>&lt;p&gt;&lt;a href=&#34;http://raidadvice.com/world-of-warcraft-legion-class-guides/&#34;&gt;Class Guides&lt;/a&gt; are great, but logs can be even better in some areas. Guides are a prediction of what will be best for each class, whereas logs tell you exactly what worked. I plan to write a few posts about using logs to improve your play. Today, we&amp;rsquo;ll look at selecting the right talents for your class and spec based on logs. &lt;a href=&#34;https://www.warcraftlogs.com/&#34;&gt;Warcraftlogs&lt;/a&gt; has a great rankings feature that lets you examine at a glance what talents the highest ranking players in your class are using. Click on the menu button to the top left, and click on rankings next to the current raid. Select the boss, difficulty, and class you are interested in. As an example, &lt;a href=&#34;https://www.warcraftlogs.com/rankings/10#boss=1853&amp;amp;difficulty=4&amp;amp;class=Druid&amp;amp;spec=Balance&#34;&gt;here&lt;/a&gt; are the top performances for Balance Druids on Heroic Nythendra. At the top, the site lists the top talents and trinkets for that boss. Along the side, you can see if any players near the top diverted from these talents or trinkets. For Balance druids, literally everyone in the top 100 uses &lt;a href=&#34;http://www.wowhead.com/spell=202345/starlord&#34;&gt;Starlord&lt;/a&gt;, &lt;a href=&#34;http://www.wowhead.com/spell=102560/incarnation-chosen-of-elune&#34;&gt;Incarnation&lt;/a&gt;, &lt;a href=&#34;http://www.wowhead.com/spell=202360/blessing-of-the-ancients&#34;&gt;Blessing of the Ancients&lt;/a&gt;, and &lt;a href=&#34;http://www.wowhead.com/spell=202430/natures-balance&#34;&gt;Nature&amp;rsquo;s Balance&lt;/a&gt;. Even, as an observer who knows nothing about the class, you can guess that those talents are the top DPS talents for Nythendra. If a Balance druid isn&amp;rsquo;t using those talents on the fight in your raid, you might wonder why. Another &amp;ldquo;top talent&amp;rdquo; is &lt;a href=&#34;http://www.wowhead.com/spell=197491/guardian-affinity&#34;&gt;Guardian Affinity&lt;/a&gt;. Unlike the four mentioned above, however, many druids in the top 100 are using another choice - &lt;a href=&#34;http://www.wowhead.com/spell=197492/restoration-affinity&#34;&gt;Restoration Affinity&lt;/a&gt;. This suggests that there isn&amp;rsquo;t a clear consensus between the two talents for top DPS or utility. Try looking at the top talents for each fight for your spec - hopefully you aren&amp;rsquo;t surprised by what you find.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -694,25 +694,25 @@
 		</item>
 		<item>
 			<title>Get Two Mythic&#43; Keystones Each Week</title>
-			<link>http://example.org/posts/get-two-mythic-keystones-each-week/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/get-two-mythic-keystones-each-week/</link>
 			<pubDate>Tue, 04 Oct 2016 06:40:20 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/get-two-mythic-keystones-each-week/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/get-two-mythic-keystones-each-week/</guid>
 			<description>&lt;p&gt;&lt;strong&gt;EDIT 2016-10-5: This has been patched out. If I had known for sure that it would be, I could have skipped writing this post.&lt;/strong&gt; Each week, if you completed a Mythic+ dungeon the previous week, you will get a chest in your order hall containing a piece of gear corresponding to the highest Mythic+ dungeon you beat as well as a Mythic+ keystone 2 levels lower than your previous week&amp;rsquo;s keystone. If you don&amp;rsquo;t have a Mythic+ keystone, you can get a +2 keystone by completing any Mythic or Mythic+ dungeon. A few sources have reported to me that, as of this week, you could combine these two options. If you waited to open your chest until you did a Mythic dungeon, getting the +2 keystone, you would get both that +2 keystone and the Mythic+ keystone 2 levels below your previous week&amp;rsquo;s keystone. It&amp;rsquo;s not clear whether this is an intentional feature or a bug that will be patched out. If you want to try your luck at getting a second keystone, this might be something you want to look into more. If it&amp;rsquo;s a bug rather than an intended feature, you probably want to avoid using it just to be safe.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Fishbrul Special</title>
-			<link>http://example.org/posts/fishbrul-special/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/fishbrul-special/</link>
 			<pubDate>Tue, 04 Oct 2016 06:29:45 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/fishbrul-special/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/fishbrul-special/</guid>
 			<description>&lt;p&gt;If you play a DPS class, before raid today, you might want to look into whether you are eating the right food. It could be &lt;a href=&#34;http://www.wowhead.com/spell=201511/fishbrul-special&#34;&gt;Fishbrul Special&lt;/a&gt;. Back in Draenor, Blizzard introduced &lt;a href=&#34;http://www.wowhead.com/item=127991/felmouth-frenzy&#34;&gt;Felmouth Frenzy&lt;/a&gt;. This food did direct damage to your target rather than improving a stat. This type of food is back in Legion with several varieties. From least to most potent: &lt;a href=&#34;http://www.wowhead.com/spell=201499/spiced-rib-roast&#34;&gt;Spiced Rib Roast&lt;/a&gt;, &lt;a href=&#34;http://www.wowhead.com/spell=201504/drogbar-style-salmon&#34;&gt;Drogbar Style Salmon&lt;/a&gt;, and &lt;a href=&#34;http://www.wowhead.com/spell=201511/fishbrul-special&#34;&gt;Fishbrul Special&lt;/a&gt;. For many classes, for single target DPS fights, Fishbrul Special is going to be the winner. If you aren&amp;rsquo;t sure, ask friends or just Simcraft it yourself. For an introduction to Simcraft, see the link on the &lt;a href=&#34;http://raidadvice.com/general-raiding-guides/&#34;&gt;General Raiding Guides&lt;/a&gt; page. One you have your simulate profile set up and simmed with stat food, replace the food line and simulate again with Fishbrul Special. For Balance Druid, I simulated two profiles, one with the first line and one with the second: &lt;code&gt;actions.precombat+=/food,type=azshari_salad actions.precombat+=/food,type=fishbrul_special&lt;/code&gt; For me, Fishbrul Special comes out slightly ahead with current gear (it was about even last week!), giving about a 0.7% DPS increase over haste food. Don&amp;rsquo;t miss out on DPS before you even enter the instance - make sure to eat the right food!&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Innervate, a Raid Cooldown</title>
-			<link>http://example.org/posts/innervate-a-raid-cooldown/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/innervate-a-raid-cooldown/</link>
 			<pubDate>Mon, 03 Oct 2016 07:12:51 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/innervate-a-raid-cooldown/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/innervate-a-raid-cooldown/</guid>
 			<description>&lt;p&gt;In Legion, &lt;a href=&#34;http://www.wowhead.com/spell=29166/innervate&#34;&gt;Innervate&lt;/a&gt; is back for Restoration and Balance Druids. Unlike previous versions, this one does not restore mana. It gives 10 seconds of no-mana-usage-casting to the healer it is cast upon. And yes, it is restricted to healers this time around. The Balance Druid version also gives increased haste to the healer it is cast on for the duration with the &lt;a href=&#34;http://www.wowhead.com/spell=202890/rapid-innervation&#34;&gt;Rapid Innervation&lt;/a&gt; artifact trait. As a Balance Druid, I picked up that trait as my 24th trait, and many Balance Druids should be getting access to it in the near future. Every healer should have some sort of weakaura for tracking Innervate. I made &lt;a href=&#34;https://www.weakauras.online/en/a/8mV9NVM9zk&#34;&gt;this very simple one&lt;/a&gt; that will allow healers to notice when Innervate is cast on them and react accordingly. If used properly in a coordinated group, Innervate can function as a significant raid healing cooldown, allowing certain classes to cast major burst heals that they otherwise could not possibly afford.&lt;/p&gt;
 &lt;h1 id=&#34;who-should-innervate-be-cast-on&#34;&gt;Who Should Innervate be Cast on?&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;TL;DR: Disc &amp;raquo; Monk &amp;gt; Shaman &amp;gt;= Holy Priest &amp;raquo; Druid &amp;gt;= Paladin.&lt;/strong&gt; Discipline priests, if you have one in your raid, probably have the most to gain from Innervate, being able to spam otherwise prohibitively expensive spells or being able to spread Atonement to more players when it is usually mana prohibitive to do so. Discipline priests already have a high skill cap, however, and it can be easy for a Discipline Priest to waste Innervate if they do not prepare for it. If you want to cast Innervate on a Discipline priest, they should probably tell you when they are ready for it. &lt;a href=&#34;https://www.reddit.com/r/CompetitiveWoW/comments/53e630/healers_and_innervate/&#34;&gt;This thread on Reddit&lt;/a&gt; a few weeks ago had some good discussion about the cooldown. Using the napkin math there, on a Monk, this has the potential to heal for 3.4 million damage in 10 seconds for no mana cost. Shamans and Holy Priests probably do not get quite the same benefit, but can also use it very effectively. Restoration Druids, though they have the spell in their spell book and may be tempted to cast it on themselves, do not have great mana dumps to benefit from it. Holy paladins similarly do not get great value out of the spell. For reference, &lt;a href=&#34;http://www.wowhead.com/spell=740/tranquility&#34;&gt;Tranquility&lt;/a&gt;, sometimes considered the best raid healing cooldown, might heal about 7.2 million over 6 seconds. But, unlike Innervate-powered healing, Tranquility is not targeted and thus will likely result in substantial overhealing in many situations. Innervate powered-healing often will allow the healer to target specific players or clusters of players to minimize the overhealing done, sometimes resulting in a raid cooldown more effective than Tranquility. Restoration Druids may object to &amp;ldquo;their cooldown&amp;rdquo; being used on other healers, but more likely than not that is best for the raid if used in a coordinated manner. Now, to be clear, in a PUG environment or an environment where the other healers do not track Innervate, keeping Innervate for yourself might be the right move as a Restoration Druid.&lt;/p&gt;
@@ -734,17 +734,17 @@
 		</item>
 		<item>
 			<title>How to Target Specific Recipes from Nomi</title>
-			<link>http://example.org/posts/how-to-target-specific-recipes-from-nomi/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/how-to-target-specific-recipes-from-nomi/</link>
 			<pubDate>Tue, 27 Sep 2016 06:23:36 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/how-to-target-specific-recipes-from-nomi/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/how-to-target-specific-recipes-from-nomi/</guid>
 			<description>&lt;p&gt;&lt;a href=&#34;https://mods.curse.com/addons/wow/nomicakes&#34;&gt;Nomicakes&lt;/a&gt;: This addon will show you what Cooking recipes can be gained from which materials you give to &lt;a href=&#34;http://www.wowhead.com/npc=64337/nomi&#34;&gt;Nomi&lt;/a&gt; in Dalaran. Simply give as many materials as you can for the recipe(s) you are targeting, and Nomi has a chance of teaching you those recipe(s). Aside from that, all we know is that it&amp;rsquo;s a grind and a low chance per batch of materials at this point. Best of luck to you, may Nomi&amp;rsquo;s odds be ever in your favor!&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>RaidAdvice Roster System Tier 19</title>
-			<link>http://example.org/posts/raidadvice-roster-system-tier-19/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/raidadvice-roster-system-tier-19/</link>
 			<pubDate>Sun, 25 Sep 2016 23:48:09 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/raidadvice-roster-system-tier-19/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/raidadvice-roster-system-tier-19/</guid>
 			<description>&lt;p&gt;Are you an officer in your mythic raiding Warcraft guild? Do you have a hard time setting the 20-person roster for each encounter, figuring out who should come in if a replacement is needed, or making sure that each player gets their fair share of playing time? If so, you&amp;rsquo;ve come to the right place. In Tier 18, I designed a roster system based on &lt;a href=&#34;https://docs.google.com/spreadsheets/d/14ODJNjDg7kgc0PkKU1qt7AndAiXT1eaOedxH3RiOVXw&#34;&gt;this Google Sheet&lt;/a&gt;. It integrates with Discord and &lt;a href=&#34;https://www.weakauras.online/en/a/kj6ZrDl928&#34;&gt;this Weakaura&lt;/a&gt; a friend made. It automatically generates a list of who you have scheduled for each boss, and which players to swap in and out. I have updated it for Legion for your use. [toc]&lt;/p&gt;
 &lt;h1 id=&#34;getting-the-sheet&#34;&gt;Getting the Sheet&lt;/h1&gt;
 &lt;p&gt;Get &lt;a href=&#34;https://docs.google.com/spreadsheets/d/14ODJNjDg7kgc0PkKU1qt7AndAiXT1eaOedxH3RiOVXw&#34;&gt;the Google Sheet&lt;/a&gt;. Click on File, Make a Copy, so you have your own version to edit.&lt;/p&gt;
@@ -765,17 +765,17 @@
 		</item>
 		<item>
 			<title>Balance Druid Gear Spreadsheet for The Emerald Nightmare</title>
-			<link>http://example.org/posts/balance-druid-gear-spreadsheet-for-the-emerald-nightmare/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/balance-druid-gear-spreadsheet-for-the-emerald-nightmare/</link>
 			<pubDate>Tue, 20 Sep 2016 15:23:07 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/balance-druid-gear-spreadsheet-for-the-emerald-nightmare/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/balance-druid-gear-spreadsheet-for-the-emerald-nightmare/</guid>
 			<description>&lt;p&gt;&lt;strong&gt;EDIT 2017-1-18:&lt;/strong&gt; Check out the 7.1.5 &lt;a href=&#34;http://raidadvice.com/balance-druid-gear-spreadsheets-for-nighthold/&#34;&gt;Gear Spreadsheets for Nighthold&lt;/a&gt;. As I discussed in my prior post about &lt;a href=&#34;http://raidadvice.com/preparing-for-the-emerald-nightmare/&#34;&gt;Preparing for The Emerald Nightmare&lt;/a&gt;, it can be useful, &lt;em&gt;after you have done all your other prep&lt;/em&gt;, to figure out what gear you should be targeting in the instance. For reference, &lt;a href=&#34;http://imgur.com/a/J7s7r&#34;&gt;here is my gear as of last night&lt;/a&gt;. I created a spreadsheet, outlining the possible upgrades in the Emerald Nightmare for my class and spec. If you are a Balance Druid that wants to use this sheet, I urge you to make a copy and enter your own starting gear, as well as to continue to update stat weights using a source you trust. This sort of spreadsheet has limited usefulness, as there are many out-of-raid sources of gear in Legion and titanforging exists. This sheet serves the limited purpose of showing what upgrades exist &lt;em&gt;for me, from the raid&lt;/em&gt;. If you play any other class, this spreadsheet may serve as a model of something you want to create for yourself. &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1uTej7J-su3NF3Uvjtjo4ChlZiz4zBgVw0sbM97YoJ4A/&#34;&gt;Here is the spreadsheet&lt;/a&gt;. One insight demonstrated by spreadsheet that is applicable to Balance Druids and may be of use to other classes: the crafted ring and neck-piece are better than non-warforged/non-socketed rings and neck-pieces available from the &lt;strong&gt;mythic&lt;/strong&gt; raid. Balance Druids should look into getting these pieces if possible. Other classes should research them, especially if your class has a secondary stat that is valued much more highly than the other secondary stats.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Preparing for The Emerald Nightmare</title>
-			<link>http://example.org/posts/preparing-for-the-emerald-nightmare/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/preparing-for-the-emerald-nightmare/</link>
 			<pubDate>Mon, 19 Sep 2016 15:04:43 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/preparing-for-the-emerald-nightmare/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/preparing-for-the-emerald-nightmare/</guid>
 			<description>&lt;p&gt;Here&amp;rsquo;s a basic overview of how I prepared for day one of heroic raiding in the &lt;a href=&#34;http://www.wowhead.com/zone=8026/the-emerald-nightmare&#34;&gt;Emerald Nightmare&lt;/a&gt;. Many of these steps are repeatable tasks you can do yourself, even if you are starting the day before the raid opens up.&lt;/p&gt;
 &lt;h1 id=&#34;strategies&#34;&gt;Strategies&lt;/h1&gt;
 &lt;p&gt;Knowing what is heading your way from the seven bosses of The Emerald Nightmare is probably the most important step you can take at this point. Here are some resources I used:&lt;/p&gt;
@@ -800,9 +800,9 @@
 		</item>
 		<item>
 			<title>World of Warcraft: Legion Useful Discord Channels</title>
-			<link>http://example.org/posts/world-of-warcraft-legion-useful-discord-channels/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/world-of-warcraft-legion-useful-discord-channels/</link>
 			<pubDate>Mon, 19 Sep 2016 06:18:23 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/world-of-warcraft-legion-useful-discord-channels/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/world-of-warcraft-legion-useful-discord-channels/</guid>
 			<description>&lt;p&gt;As I&amp;rsquo;ve &lt;a href=&#34;http://raidadvice.com/useful-websites-for-legion-prepatch/&#34;&gt;noted before&lt;/a&gt;, the Discord channel for your class is a great place to get information about how to play your class and spec well. I recently checked the &lt;a href=&#34;https://www.reddit.com/r/competitivewow&#34;&gt;https://www.reddit.com/r/competitivewow&lt;/a&gt; Discord channel list, and wanted to post a list of class channels here as well for your reference. If you want to make sure that guide you read in prepatch is still up-to-date and search for more resources, the Discord channel for your spec is a great first stop. I will be going through and cultivating the class guides, hopefully in time for the release of mythic raiding. In the meantime, your class Discord is a good first place to check for up-to-date information, and can be all you need in some cases.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://discord.gg/0ez1cFfUH3ingV96&#34;&gt;Death Knight&lt;/a&gt;&lt;/li&gt;
@@ -824,9 +824,9 @@
 		</item>
 		<item>
 			<title>Withered Training Preparation, Tips, and Tricks</title>
-			<link>http://example.org/posts/withered-training-preparation-tips-and-tricks/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/withered-training-preparation-tips-and-tricks/</link>
 			<pubDate>Mon, 12 Sep 2016 15:32:58 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/withered-training-preparation-tips-and-tricks/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/withered-training-preparation-tips-and-tricks/</guid>
 			<description>&lt;p&gt;(Last updated 2017-1-12) This guide will outline some items to focus on in &lt;a href=&#34;http://www.wowhead.com/zone=7637/suramar&#34;&gt;Suramar&lt;/a&gt; to maximize &lt;a href=&#34;http://www.wowhead.com/faction=1859&#34;&gt;the Nightfallen&lt;/a&gt; reputation gains and overall success you have at &lt;a href=&#34;http://www.wowhead.com/quest=43943/withered-army-training&#34;&gt;Withered Army Training&lt;/a&gt;. This is &lt;strong&gt;not&lt;/strong&gt; an all-inclusive guide, and will reference other resources on Withered Training that you should check out before starting the training. I wrote this guide because while there are a few great guides on how to clear the scenario, it was harder to find detailed information on how to prepare for the scenario or what to do your first few times.&lt;/p&gt;
 &lt;h1 id=&#34;withered-training-faq&#34;&gt;Withered Training FAQ&lt;/h1&gt;
 &lt;ul&gt;
@@ -900,9 +900,9 @@
 		</item>
 		<item>
 			<title>Mount Up and Do Mythics</title>
-			<link>http://example.org/posts/mount-up-and-do-mythics/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/mount-up-and-do-mythics/</link>
 			<pubDate>Thu, 08 Sep 2016 16:40:49 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/mount-up-and-do-mythics/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/mount-up-and-do-mythics/</guid>
 			<description>&lt;p&gt;These are two World of Warcraft tidbits I wanted to share. They will help you mount up and clear mythic dungeons each week.&lt;/p&gt;
 &lt;h1 id=&#34;mount-up&#34;&gt;Mount Up&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;EDIT 2016-10-11: Follow up post &lt;a href=&#34;http://raidadvice.com/mount-macros-revisited/&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt; The following is my Mount Up macro. I assign the &amp;ldquo;favorite mounts&amp;rdquo; icon to it, and enjoy using it to get around in Legion. &lt;code&gt;/dismount /castrandom [mod:alt]Azure Water Strider, Crimson Water Strider /cast [mod:shift]Grand Expedition Yak;[mod:ctrl]Mekgineer&#39;s Chopper /cast [flyable]X-53 Touring Rocket /cancelform [stance:1/2] /run C_MountJournal.SummonByID(0)&lt;/code&gt; Here&amp;rsquo;s what it does: If mounted, I dismount. If I am holding alt, cast either Azure Water Stider or Crimson Water Strider. If I am holding shift, cast my Yak for repairs and transmog. If I am holding control, cast MekGineer&amp;rsquo;s Chopper for a two-person ground mount. If none of the above, make sure I am not in bear or cat form (if you skip this step, the next doesn&amp;rsquo;t work), and summon a random favorite mount. This allows me to set both ground and flying mounts as my favorite mounts for use in the Broken Isles, cast a water-walker/shop/transmog mount/2-seater if I need it, and cast a 2-seater flying mount if I happen to be in a flyable zone. Consider this alternative: &lt;code&gt;/dismount /cast [mod:alt]Crimson Water Strider;[mod:shift]Traveler&#39;s Tundra Mammoth;[mod:ctrl]Sandstone Drake /castrandom [flyable]Red Flying Cloud, Black Drake /run C_MountJournal.SummonByID(0)&lt;/code&gt; This macro would work for a non-druid. It would cast Crimson Water Strider with alt, Traveler&amp;rsquo;s Tundra Mammoth with shift, and Sandstone Drake with control for a two-person flying or ground mount. If none of the above, and in a flying zone, cast either Red Flying Cloud or Black Drake. If not in a flying zone, cast a favorite mount. You can obviously change the mount names if you have different mounts or preferences. Happy trails!&lt;/p&gt;
@@ -912,9 +912,9 @@
 		</item>
 		<item>
 			<title>Gearing up for The Emerald Nightmare with PvP World Quests</title>
-			<link>http://example.org/posts/gearing-up-for-the-emerald-nightmare-with-pvp-world-quests/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/gearing-up-for-the-emerald-nightmare-with-pvp-world-quests/</link>
 			<pubDate>Tue, 06 Sep 2016 15:55:33 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/gearing-up-for-the-emerald-nightmare-with-pvp-world-quests/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/gearing-up-for-the-emerald-nightmare-with-pvp-world-quests/</guid>
 			<description>&lt;p&gt;There is &lt;a href=&#34;http://us.battle.net/forums/en/wow/topic/18300628854&#34;&gt;no more PvP gear in Legion&lt;/a&gt;. Players can get gear from PvE and they can get gear from PvP, and PvP gear can be used in PvE and vice versa. &lt;a href=&#34;https://worldofwarcraft.com/en-us/news/19994381/legion-pvp-preview&#34;&gt;According to Blizzard&lt;/a&gt;, &amp;ldquo;in Legion, gear is gear, regardless of where you earned it, with no PvP-specific stats or fluctuating item levels, and the best players in both PvP and PvE content will be able to earn the best gear.&amp;rdquo; Now, if a player had to be extremely talented at PvP to get good gear, a mythic raider who was not excellent at PvP might be fine ignoring PvP in Legion. However, this appears not to be the case: you can basically acquire PvP gear from world quests much like how you get other gear from world quests. &lt;a href=&#34;http://www.wowhead.com/quests/type:113?filter=35;7;0&#34;&gt;Here is a list of PvP world quests in Legion&lt;/a&gt;. Three Warden Tower Assault quests spawn every three hours, one in each of Val&amp;rsquo;sharah, Highmountain, and Stormheim. These quests are very straightforward, players must kill several opposing faction NPCs then kill a boss NPC at the top of a tower. The mobs are a bit punishing, so pull a few at a time, bring a tank, wait for other members of your faction to show up, or all three. Doing these quests rewards honor. They also reward either gold, artifact knowledge, or iLvL 805 gear. Here&amp;rsquo;s the important part for gearing up: These quests, under certain conditions, start rewarding 840 gear instead of 805 gear, the same iLvL gear that drops from mythic dungeons! And just like mythic dungeons, that gear can roll warforged. It&amp;rsquo;s not clear exactly what breakpoints cause the quests to start spawning 840 gear or stop spawning 805 gear (840 gear starts showing up as a reward at around honor level 14), but as &lt;a href=&#34;https://twitter.com/holinka/status/771917972784812032&#34;&gt;noted by World of Warcraft&amp;rsquo;s Lead PvP Designer&lt;/a&gt; the &amp;ldquo;gear reward ilvl from PvP world quest increase based on Honor level.&amp;rdquo; How can you increase your honor level if you don&amp;rsquo;t want to fight other players in PvP? That&amp;rsquo;s right, you guessed it, by doing these world quests every few hours. Two notes: First, for the &lt;a href=&#34;http://www.wowhead.com/quest=41421/warden-tower-assault-nightwatchers-perch&#34;&gt;Val&amp;rsquo;sharah quest&lt;/a&gt;, the world map icon currently always directs you to the southern tower. If you get there, and the tower is guarded by your faction, you need to go to the northern tower. It&amp;rsquo;s located northwest of Blackrock Hold at around (33, 44). Second, for avid PvPers, &lt;a href=&#34;https://twitter.com/holinka/status/771920998027268096&#34;&gt;you need not worry&lt;/a&gt;: &amp;ldquo;When you Prestige, the world quest system will consider you Honor level 50 when calculating your reward.&amp;rdquo;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -930,9 +930,9 @@
 		</item>
 		<item>
 			<title>Invasions are Great for Leveling before Legion</title>
-			<link>http://example.org/posts/invasions-are-great-for-leveling-before-legion/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/invasions-are-great-for-leveling-before-legion/</link>
 			<pubDate>Thu, 25 Aug 2016 23:12:15 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/invasions-are-great-for-leveling-before-legion/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/invasions-are-great-for-leveling-before-legion/</guid>
 			<description>&lt;p&gt;I&amp;rsquo;ve been very busy with invasions &amp;amp; World of Warcraft refer-a-friend leveling. Check &lt;a href=&#34;https://www.reddit.com/r/wow/comments/4zilwq/on_saturday_i_created_24_new_characters_on_the/&#34;&gt;this post on Reddit&lt;/a&gt; for a how-to guide and tips. You can do this by yourself - run two windows of Warcraft on your own computer for two different Warcraft subscriptions. Even if you start Friday evening, you can likely get a full server of characters on your main account to 90 over the weekend before invasions end when Legion launches. You can save time over the fellow who wrote that guide by using the grant-levels feature of refer a friend. One way of approaching it is leveling two pairs of characters to 90, one pair to 60, one pair to 45, and one pair to 28. Then, use level granting, to bring your main account to two 45 characters, then three 60 characters, then five level 90 characters. Over the next few weeks, stay tuned for a re-polished class guides compilation for Legion, a roster management tools system for guild leaders, a third user interface post, and more. If there&amp;rsquo;s any content you are particularly interested in reading about or any questions you have for Legion, leave a comment and let me know. Best of luck with the invasions!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;comments&#34;&gt;Comments:&lt;/h3&gt;
@@ -944,17 +944,17 @@
 		</item>
 		<item>
 			<title>Remember to Buy Legion</title>
-			<link>http://example.org/posts/remember-to-buy-legion/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/remember-to-buy-legion/</link>
 			<pubDate>Wed, 17 Aug 2016 21:24:19 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/remember-to-buy-legion/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/remember-to-buy-legion/</guid>
 			<description>&lt;p&gt;Legion launches in just a few weeks. You may have pre-ordered the game digitally from Blizzard. If you have, you&amp;rsquo;re all set. If not, now is a great time to &lt;a href=&#34;https://www.amazon.com/World-Warcraft-Legion-Standard-PC-Mac/dp/B017MRX6CM//ref=as_li_ss_tl?ie=UTF8&amp;amp;linkCode=ll1&amp;amp;tag=raida-20&amp;amp;linkId=907ba57e142f9fce0b9fd68e8365cea4&#34;&gt;order the game (Amazon US store link)&lt;/a&gt;. If you&amp;rsquo;re like me, and you want a physical copy, ordering from Amazon is an excellent choice. Shipping should be free, you should receive the game on launch day, and, if you have Amazon Prime, they currently offer a 20% discount on pre-orders and recently released games! Here&amp;rsquo;s that link again to order: &lt;a href=&#34;https://www.amazon.com/World-Warcraft-Legion-Standard-PC-Mac/dp/B017MRX6CM//ref=as_li_ss_tl?ie=UTF8&amp;amp;linkCode=ll1&amp;amp;tag=raida-20&amp;amp;linkId=907ba57e142f9fce0b9fd68e8365cea4&#34;&gt;World of Warcraft: Legion Standard Edition PC/Mac (Amazon US store link)&lt;/a&gt;. I ordered &lt;a href=&#34;https://www.amazon.com/Overwatch-Origins-PC/dp/B017L187YG/ref=as_li_ss_tl?ie=UTF8&amp;amp;linkCode=ll1&amp;amp;tag=raida-20&amp;amp;linkId=3cb486d2ba2f4ed278f104b4e1a386e0&#34;&gt;Overwatch: Origins Edition (Amazon US store link)&lt;/a&gt; from Amazon and couldn&amp;rsquo;t have been happier with my shopping experience. The Legion is ready - are you? &lt;em&gt;Amazon and Amazon Prime are trademarks of Amazon.com, Inc. or its affiliates.&lt;/em&gt;&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Seven Tips for Legion that Gul&#39;dan Never Saw Coming</title>
-			<link>http://example.org/posts/seven-tips-for-legion-that-guldan-never-saw-coming/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/seven-tips-for-legion-that-guldan-never-saw-coming/</link>
 			<pubDate>Mon, 15 Aug 2016 16:37:53 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/seven-tips-for-legion-that-guldan-never-saw-coming/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/seven-tips-for-legion-that-guldan-never-saw-coming/</guid>
 			<description>&lt;p&gt;Here are some useful tips that will help you prepare for the launch of World of Warcraft: Legion. For even more resources you may not have encountered, check out the &lt;a href=&#34;http://raidadvice.com/class-guides-legion-prepatch/&#34;&gt;class guides&lt;/a&gt; or &lt;a href=&#34;http://raidadvice.com/general-raiding-guides/&#34;&gt;general raiding guides&lt;/a&gt; (both are also linked in the navigation bar). It has always been a dream of mine to write a useful &lt;a href=&#34;http://www.paulgraham.com/nthings.html&#34;&gt;List of N Things&lt;/a&gt; blog post with a &lt;a href=&#34;http://www.wired.com/2015/12/psychology-of-clickbait/&#34;&gt;catchy title&lt;/a&gt;. Enjoy!&lt;/p&gt;
 &lt;h1 id=&#34;swag-your-spellbook&#34;&gt;Swag Your Spellbook&lt;/h1&gt;
 &lt;p&gt;When Blizzard &lt;a href=&#34;https://worldofwarcraft.com/en-us/news/20151961/legion-pre-expansion-patch-notes&#34;&gt;reworked the Glyph system with the 7.0 Legion prepatch&lt;/a&gt;, several classes lost cosmetic effects. Some will be available again from Inscription Glyphs when Legion launches. Others are available for you now! Are you a Druid missing your stag appearance? A Shaman that misses making it rain (of frogs)? Check out &lt;a href=&#34;https://www.reddit.com/r/wow/comments/4tr061/there_are_vendors_throughout_the_world_who_sell/&#34;&gt;this Reddit post with a list of vendors that sell cosmetic enhancements&lt;/a&gt;. Some like &lt;a href=&#34;http://www.wowhead.com/npc=11536/quartermaster-miranda-breechlock&#34;&gt;Quartermaster Miranda Breechlock&lt;/a&gt; in Eastern Plaguelands sell only a few items (she sells a &lt;a href=&#34;http://www.wowhead.com/item=136801/divine-tome-contemplation&#34;&gt;Contemplation Tome&lt;/a&gt; for Paladins and a &lt;a href=&#34;http://www.wowhead.com/item=136928/thaumaturgists-orb&#34;&gt;nifty toy&lt;/a&gt; for Priests). Others like &lt;a href=&#34;http://www.wowhead.com/npc=12022/lorelae-wintersong&#34;&gt;Lorelae Wintersong&lt;/a&gt; in Moonglade sell many Tomes - any Druids looking for &lt;a href=&#34;http://www.wowhead.com/item=136794/tome-of-the-wilds-flap&#34;&gt;Flap&lt;/a&gt; or cosmetic effects should check her out. Speaking of Flap, if you are a Balance Druid, check out the &lt;a href=&#34;https://wago.io/4k38vaEub&#34;&gt;FlappyBirb weakaura&lt;/a&gt; which creates some mini-games based on Flapping!&lt;/p&gt;
@@ -980,33 +980,33 @@
 		</item>
 		<item>
 			<title>Useful Websites for Legion Prepatch</title>
-			<link>http://example.org/posts/useful-websites-for-legion-prepatch/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/useful-websites-for-legion-prepatch/</link>
 			<pubDate>Tue, 19 Jul 2016 04:06:38 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/useful-websites-for-legion-prepatch/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/useful-websites-for-legion-prepatch/</guid>
 			<description>&lt;p&gt;&lt;a href=&#34;https://discordapp.com/&#34;&gt;Discord&lt;/a&gt; is the new voice program taking over many gaming communities with its crisp, free voice-chat and very useful text channels (EDIT: see &lt;a href=&#34;http://raidadvice.com/world-of-warcraft-legion-useful-discord-channels/&#34;&gt;this list of Discord channels for Legion&lt;/a&gt;). There are several community-run wow-related discord servers, including &lt;a href=&#34;https://discord.gg/wow&#34;&gt;this one&lt;/a&gt; for WoW in general and &lt;a href=&#34;http://www.icy-veins.com/forums/topic/16114-class-discord-channels/&#34;&gt;these&lt;/a&gt; for each class. Check these channels if you want to stay tuned for the very latest theory-crafting. You can also make a free server for your guild. &lt;a href=&#34;http://www.wowhead.com/&#34;&gt;http://www.wowhead.com/&lt;/a&gt;: Wowhead, already very useful in general, seems to be stepping up its class guides game for Legion (navigate from &lt;a href=&#34;http://legion.wowhead.com/guides/classes&#34;&gt;http://legion.wowhead.com/guides/classes&lt;/a&gt;). &lt;a href=&#34;http://www.icy-veins.com/wow/class-guides&#34;&gt;http://www.icy-veins.com/wow/class-guides&lt;/a&gt; - A very reasonable starting off point for class guides, with the best guide available for some specs. The Icy-Veins forums also have bits of useful discussion. &lt;a href=&#34;http://www.mmo-champion.com/&#34;&gt;http://www.mmo-champion.com/&lt;/a&gt;: This site, like wowhead, has periodic updates about wow, as well has having very well-trafficked &lt;a href=&#34;http://www.mmo-champion.com/forums/247-Class-Discussions&#34;&gt;forums&lt;/a&gt;, which have the best theorycrafting available for some classes. &lt;a href=&#34;https://www.reddit.com/r/wow/&#34;&gt;http://www.reddit.com/r/wow/&lt;/a&gt;: This reddit subreddit is an official wow community site and has good, active discussion about wow. &lt;a href=&#34;http://www.reddit.com/r/CompetitiveWoW/&#34;&gt;http://www.reddit.com/r/CompetitiveWoW/&lt;/a&gt;: This reddit subreddit is narrowly focused on high-level wow raiding. There are detailed guides, log analysis posts, and more. &lt;a href=&#34;http://simplearmory.com/&#34;&gt;http://simplearmory.com/&lt;/a&gt;: This website allows an alternative view of the wow armory. The collectibles, mounts section links to a good guide for mount farming and tells what you missed at a glance. &lt;a href=&#34;http://bossblueprint.com/wow&#34;&gt;http://bossblueprint.com/wow&lt;/a&gt;: This website is a great way to quickly outline raid positioning strategies for HFC.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Legion Prepatch Looms</title>
-			<link>http://example.org/posts/legion-prepatch-looms/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/legion-prepatch-looms/</link>
 			<pubDate>Sun, 17 Jul 2016 23:36:51 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/legion-prepatch-looms/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/legion-prepatch-looms/</guid>
 			<description>&lt;p&gt;Hello and welcome back to RaidAdvice. Who&amp;rsquo;s excited for the Legion prepatch (&lt;a href=&#34;http://us.battle.net/wow/en/blog/20176410/the-legion-pre-expansion-patch-arrives-july-19-7-15-2016&#34;&gt;coming in a few days on July 19, 2016&lt;/a&gt;)? Guide availability for the prepatch is spotty right now, and several writers are waiting to release guides until the patch drops. Check back in a week or two for my first-draft list of prepatch class guides. Before Legion hits, there&amp;rsquo;s a few raid-oriented posts I intend to release, so be on the lookout for those as well! For now, there&amp;rsquo;s a &lt;a href=&#34;https://www.reddit.com/r/CompetitiveWoW/comments/4t1wqx/class_guides_for_patch_70/&#34;&gt;reddit thread&lt;/a&gt; with information on several guides, and some class websites (links available from the &lt;a href=&#34;http://raidadvice.com/class-guides-tier-18/&#34;&gt;Class Guides Tier 18 page&lt;/a&gt;) have forums where folks are starting to theorycraft. Class discord channels and IRC have some good guides forming/promised as well. If you know of a good guide, feel free to leave a comment here, or contact me directly (my contact information is available in the &lt;a href=&#34;http://raidadvice.com/about/&#34;&gt;about page&lt;/a&gt;).&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Generally Useful Websites Tier 18</title>
-			<link>http://example.org/posts/generally-useful-websites-tier-18/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/generally-useful-websites-tier-18/</link>
 			<pubDate>Sat, 30 Apr 2016 23:00:03 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/generally-useful-websites-tier-18/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/generally-useful-websites-tier-18/</guid>
 			<description>&lt;p&gt;This is a quick post on useful websites that do not easily fit into the &amp;ldquo;guides&amp;rdquo; pages. &lt;a href=&#34;http://www.wowhead.com/&#34;&gt;http://www.wowhead.com/&lt;/a&gt;: Wowhead maintains news, guides, and a searchable database of every item in the game. If you have a question about something in wow, this is a great first place to look. &lt;a href=&#34;http://www.mmo-champion.com/&#34;&gt;http://www.mmo-champion.com/&lt;/a&gt;: This site has periodic updates about wow, as well has having very well-trafficked forums. &lt;a href=&#34;https://www.reddit.com/r/wow/&#34;&gt;http://www.reddit.com/r/wow/&lt;/a&gt;: This reddit subreddit is an official wow community site and has good, active discussion about wow. &lt;a href=&#34;http://www.reddit.com/r/CompetitiveWoW/&#34;&gt;http://www.reddit.com/r/CompetitiveWoW/&lt;/a&gt;: This reddit subreddit is narrowly focused on high-level wow raiding. There are detailed guides, log analysis posts, and more. &lt;a href=&#34;http://simplearmory.com/&#34;&gt;http://simplearmory.com/&lt;/a&gt;: This website allows an alternative view of the wow armory. The collectibles, mounts section links to a good guide for mount farming and tells what you missed at a glance.&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Other Class Guide Compilations for Tier 18</title>
-			<link>http://example.org/posts/other-class-guide-compilations-for-tier-18/</link>
+			<link>https://raphanw.github.io/raidadvice/posts/other-class-guide-compilations-for-tier-18/</link>
 			<pubDate>Mon, 25 Apr 2016 02:48:00 +0000</pubDate>
-			<guid isPermaLink="true">http://example.org/posts/other-class-guide-compilations-for-tier-18/</guid>
+			<guid isPermaLink="true">https://raphanw.github.io/raidadvice/posts/other-class-guide-compilations-for-tier-18/</guid>
 			<description>&lt;p&gt;This site was started due to dissatisfaction with other guide compilations, which generally seek to host proprietary guides for all classes on one site. Some of these websites are good jumping off points, but, in general, they suffer from being out of date or inaccurate for at least some of the guides. That being said, the best are listed below. &lt;a href=&#34;http://www.icy-veins.com/wow/class-guides&#34;&gt;http://www.icy-veins.com/wow/class-guides&lt;/a&gt; - A very reasonable starting off point for people new to raiding. The Icy-Veins forums also have bits of useful discussion. &lt;a href=&#34;http://onuraslan.github.io/SummonStoneMirror/summonstone.com/&#34;&gt;http://onuraslan.github.io/SummonStoneMirror/summonstone.com/&lt;/a&gt; - A mirror of the now defunct SummonStone website. This project had promise, but was closed by its creator, Skullflower, a notable Death Knight theorycrafter and raider, when he took a job working for Blizzard. Nice guide format, a better jumping off point for some classes than Icy-Veins. &lt;a href=&#34;http://www.mmo-champion.com/forums/247-Class-Discussions&#34;&gt;http://www.mmo-champion.com/forums/247-Class-Discussions&lt;/a&gt; - The MMO-Champion class forums have the best theorycrafting available for some classes. Other class forums may be inactive or, worse, have inaccurate information.&lt;/p&gt;
 </description>
 		</item>
