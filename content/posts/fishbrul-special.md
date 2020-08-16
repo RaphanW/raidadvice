@@ -1,0 +1,8 @@
+---
+title: 'Fishbrul Special'
+date: Tue, 04 Oct 2016 06:29:45 +0000
+draft: false
+tags: ['Uncategorized']
+---
+
+If you play a DPS class, before raid today, you might want to look into whether you are eating the right food. It could be [Fishbrul Special](http://www.wowhead.com/spell=201511/fishbrul-special). Back in Draenor, Blizzard introduced [Felmouth Frenzy](http://www.wowhead.com/item=127991/felmouth-frenzy). This food did direct damage to your target rather than improving a stat. This type of food is back in Legion with several varieties. From least to most potent: [Spiced Rib Roast](http://www.wowhead.com/spell=201499/spiced-rib-roast), [Drogbar Style Salmon](http://www.wowhead.com/spell=201504/drogbar-style-salmon), and [Fishbrul Special](http://www.wowhead.com/spell=201511/fishbrul-special). For many classes, for single target DPS fights, Fishbrul Special is going to be the winner. If you aren't sure, ask friends or just Simcraft it yourself. For an introduction to Simcraft, see the link on the [General Raiding Guides](http://raidadvice.com/general-raiding-guides/) page. One you have your simulate profile set up and simmed with stat food, replace the food line and simulate again with Fishbrul Special. For Balance Druid, I simulated two profiles, one with the first line and one with the second: `actions.precombat+=/food,type=azshari_salad actions.precombat+=/food,type=fishbrul_special` For me, Fishbrul Special comes out slightly ahead with current gear (it was about even last week!), giving about a 0.7% DPS increase over haste food. Don't miss out on DPS before you even enter the instance - make sure to eat the right food!

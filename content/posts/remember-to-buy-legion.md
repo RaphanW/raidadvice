@@ -1,0 +1,8 @@
+---
+title: 'Remember to Buy Legion'
+date: Wed, 17 Aug 2016 21:24:19 +0000
+draft: false
+tags: ['Uncategorized']
+---
+
+Legion launches in just a few weeks. You may have pre-ordered the game digitally from Blizzard. If you have, you're all set. If not, now is a great time to [order the game (Amazon US store link)](https://www.amazon.com/World-Warcraft-Legion-Standard-PC-Mac/dp/B017MRX6CM//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=raida-20&linkId=907ba57e142f9fce0b9fd68e8365cea4). If you're like me, and you want a physical copy, ordering from Amazon is an excellent choice. Shipping should be free, you should receive the game on launch day, and, if you have Amazon Prime, they currently offer a 20% discount on pre-orders and recently released games! Here's that link again to order: [World of Warcraft: Legion Standard Edition PC/Mac (Amazon US store link)](https://www.amazon.com/World-Warcraft-Legion-Standard-PC-Mac/dp/B017MRX6CM//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=raida-20&linkId=907ba57e142f9fce0b9fd68e8365cea4). I ordered [Overwatch: Origins Edition (Amazon US store link)](https://www.amazon.com/Overwatch-Origins-PC/dp/B017L187YG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=raida-20&linkId=3cb486d2ba2f4ed278f104b4e1a386e0) from Amazon and couldn't have been happier with my shopping experience. The Legion is ready - are you? _Amazon and Amazon Prime are trademarks of Amazon.com, Inc. or its affiliates._

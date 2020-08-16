@@ -1,0 +1,8 @@
+---
+title: 'Use Wowprogress to Pick your Battles'
+date: Thu, 10 Nov 2016 06:10:55 +0000
+draft: false
+tags: ['Uncategorized']
+---
+
+My guild opted to spend tonight progressing on Mythic [Heart](http://www.wowhead.com/npc=105393/ilgynoth) rather than entering Heroic [Trial of Valor](http://www.wowhead.com/trial-of-valor). I think this was a great decision. It was motivated in part by worth of mouth recounts, and in part by [wowprogress](http://www.wowprogress.com/) results. Scroll to the bottom of the front page of wowprogress to see how many guilds have downed each boss in the current tier. On Tuesday, the first day Trials opened, less than 200 guilds had killed Heroic Odyn, the first boss of the instance. That's less than half a percent of tracked guilds. Our average ilvl is around 875; spending a night wiping to a boss most guilds couldn't kill in a night of raiding for gear with a base ilvl 10 below ours seemed like a poor investment. Yes, the new raid is exciting, and some of us will likely tackle normal on off nights. But with current tuning, getting in more attempts on Heart was a better idea than starting fresh on Odyn. Wowprogress helped guilds early in the tier too, and it can still help yours. For example, if deciding between Dragons and Heart, all else being equal you should choose Dragons first. Many more guilds have killed it. Check what more-progressed guilds have done and follow the path of least resistance. More often than not, it will be the best choice for your raid group.

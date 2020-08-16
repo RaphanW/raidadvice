@@ -1,0 +1,8 @@
+---
+title: 'Mount Macros Revisited'
+date: Wed, 12 Oct 2016 01:58:16 +0000
+draft: false
+tags: ['Uncategorized']
+---
+
+A [post over at Coffee Cakes and Crits](https://coffeecakesandcrits.wordpress.com/2016/10/01/mount-macros/) showed a creative way to incorporate toys and pets into your mount macro. Fun times. I also discovered recently that Blizzard has updated it's "Favorite Mount" logic, so you will cast a mount with a ground animation when in non-flying zones and a mount that can fly in flying zones. It seems like they did this on a pretty smart per mount basis - [Cenarion War Hippogryph](http://www.wowhead.com/item=33999/cenarion-war-hippogryph) has a goofy run animation with its wings so it casts only in flying zones, but [Red Flying Cloud](http://www.wowhead.com/item=89363/disc-of-the-red-flying-cloud) looks nifty on the ground and it casts in both. All ground-only mounts will cast in only nonflying areas. So, I have made a revision to my mount macro [since I last shared it](http://raidadvice.com/mount-up-and-do-mythics/). Here it is: `/dismount /cast Archmage Vargoth's Spare Staff /rfp /castrandom [mod:alt]Azure Water Strider, Crimson Water Strider /cast [mod:shift]Grand Expedition Yak;[mod:ctrl]X-53 Touring Rocket /cancelform [stance:1/2] /run C_MountJournal.SummonByID(0)` As noted by [wrathofkublakhan](https://coffeecakesandcrits.wordpress.com/author/wrathofkublakhan/), /rfp summons a random favorite pet. Enjoy!
