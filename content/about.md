@@ -22,7 +22,13 @@ During the Legion expansion, this site strived to compile the best information a
 1.  Link only a few, “best” guides, perhaps others as honorable mentions.
 2.  Update guides based on community recommendations and feedback.
 
-WoW raiding history
+
+Technical Details
+===============
+I originally built this site with [Wordpress](https://wordpress.org/) and hosted it on Digital Ocean. In August of 2020, I pulled the content with [blog2md](https://github.com/palaniraja/blog2md), and re-built the site with [Hugo](https://gohugo.io/) and host it on [Github Pages](https://pages.github.com/).
+
+
+Raphan's WoW raiding history
 ====================
 
 I raided in Tier 17 on several guilds, ending on Alone of Aerie Peak (their weekend raid team). I finished cutting edge Imperator but the guild did not get mythic Blackhand down in time. 
