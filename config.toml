@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "RaidAdvice.com"
 theme = "ananke"
 publishDir = "docs"
+googleAnalytics = "UA-72234955-2"
 
 [permalinks]
   posts = ":title"
