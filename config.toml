@@ -8,6 +8,11 @@ googleAnalytics = "UA-72234955-2"
 [permalinks]
   posts = ":title"
 
+[params]
+    favicon = "favicon.ico"
+    twitter = "https://twitter.com/RaphanW"
+    recent_posts_number = 5
+
 [menu]
 
     # Configure main menu entries (header)
