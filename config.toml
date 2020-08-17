@@ -1,7 +1,7 @@
 baseURL = "http://www.raidadvice.com"
 languageCode = "en-us"
 title = "RaidAdvice.com"
-theme = "slick"
+theme = "ananke"
 publishDir = "docs"
 
 [permalinks]
@@ -14,11 +14,11 @@ publishDir = "docs"
     [[menu.main]]
         identifier = "About"
         name = "About"
-        url = "about/"
+        url = "/about/"
         weight = 1
 
     [[menu.main]]
         identifier = "General-Guides"
         name = "General Raiding Guides"
-        url = "general-raiding-guides/"
+        url = "/general-raiding-guides/"
         weight = 1
