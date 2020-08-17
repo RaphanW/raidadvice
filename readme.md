@@ -1,1 +1,1 @@
-Raphan's Gaming Blog
+Raphan's Gaming Blog - raidadvice.com
