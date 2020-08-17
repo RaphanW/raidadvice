@@ -1,7 +1,7 @@
 baseURL = "http://www.raidadvice.com"
 languageCode = "en-us"
 title = "RaidAdvice.com"
-theme = "ananke"
+theme = "slick"
 publishDir = "docs"
 
 [permalinks]

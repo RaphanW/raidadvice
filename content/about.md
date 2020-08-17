@@ -25,7 +25,7 @@ During the Legion expansion, this site strived to compile the best information a
 
 Technical Details
 ===============
-I originally built this site with [Wordpress](https://wordpress.org/) and hosted it on Digital Ocean. In August of 2020, I pulled the content with [blog2md](https://github.com/palaniraja/blog2md), and re-built the site with [Hugo](https://gohugo.io/) and host it on [Github Pages](https://pages.github.com/).
+I originally built this site with [Wordpress](https://wordpress.org/) and hosted it on Digital Ocean. In August of 2020, I pulled the content with [blog2md](https://github.com/palaniraja/blog2md), and re-built the site with [Hugo](https://gohugo.io/) and hosted it on [Github Pages](https://pages.github.com/).
 
 
 Raphan's WoW raiding history
